@@ -1,0 +1,4510 @@
+XXXXXXXXX
+Amarillo Cúrcuma,Amarillo Natural 3,Extracto de Cúrcuma,Diferuloilmetano
+
+E100
+Curcuminas
+Seguro
+XXXXXXXXX
+Amarillo Cúrcuma,Amarillo Natural 3,Extracto de Cúrcuma,Diferuloilmetano
+
+E100i
+Curcumina
+Seguro
+XXXXXXXXX
+Amarillo Cúrcuma,Amarillo Natural 3,Extracto de Cúrcuma,Diferuloilmetano
+
+E100ii
+Cúrcuma
+Seguro
+XXXXXXXXX
+Riboflavina 5'-Fosfato,Sal Sódica de Fosfato de Riboflavina,Sal Monosódica de Éster de 5'-Fosfato de Riboflavina,Suero de Leche,Lactosuero,Lactoflavina,Vitamina B2,Mononucleótido de Sodio,RF
+
+E101
+Riboflavinas
+Seguro
+XXXXXXXXX
+Riboflavina 5'-Fosfato,Sal Sódica de Fosfato de Riboflavina,Sal Monosódica de Éster de 5'-Fosfato de Riboflavina,Suero de Leche,Lactosuero,Lactoflavina,Vitamina B2,Mononucleótido de Sodio,RF
+
+E101i
+Riboflavina
+Seguro
+XXXXXXXXX
+Riboflavina 5'-Fosfato,Sal Sódica de Fosfato de Riboflavina,Sal Monosódica de Éster de 5'-Fosfato de Riboflavina,Suero de Leche,Lactosuero,Lactoflavina,Vitamina B2,Mononucleótido de Sodio,RF
+
+E101ii
+Fosfato de Riboflavina
+Seguro
+XXXXXXXXX
+Riboflavina 5'-Fosfato,Sal Sódica de Fosfato de Riboflavina,Sal Monosódica de Éster de 5'-Fosfato de Riboflavina,Suero de Leche,Lactosuero,Lactoflavina,Vitamina B2,Mononucleótido de Sodio,RF
+
+E101iii
+Riboflavina de Bacillus Subtilis
+Seguro
+XXXXXXXXX
+Riboflavina 5'-Fosfato,Sal Sódica de Fosfato de Riboflavina,Sal Monosódica de Éster de 5'-Fosfato de Riboflavina,Suero de Leche,Lactosuero,Lactoflavina,Vitamina B2,Mononucleótido de Sodio,RF
+
+E101iv
+Riboflavina de Ashbya Gossypii
+Seguro
+XXXXXXXXX
+Tartrazina,Amarillo Ácido 23,Amarillo 5,Amarillo Alimentario 4,Sal Sódica de Tartrazina,TZ
+
+E102
+Tartracina
+Peligroso
+XXXXXXXXX
+Crisoín,Crisoína S,Naranja Ácida 6,Amarillo Alimentario 8,Amarillo de Resorcinol,Amarillo Dorado,Amarillo T,Tropaeolina O,Tropaeolina R
+
+E103
+Crisoína
+Peligroso
+XXXXXXXXX
+Quinolina,Quinolín,Quinaldina,Amarillo Ácido 3,Amarillo Limón ZN 3,Amarillo Alimentario 13,Amarillo Japón 203,Amarillo Quinidina KT
+
+E104
+Amarillo de Quinoleína
+Sospechoso
+XXXXXXXXX
+Amarillo Rápido,Amarillo Ácido 9,Amarillo Alimentario 2,Amarillo de Cártamo,Fast Yellows AB,Acid Yellow 9,Food Yellow 2,Safflower Dye,Carthamus Yellow,Solid Yellow Coloring,CI 13015 
+
+E105
+Amarillo Sólido
+Peligroso
+XXXXXXXXX
+Amarillo Ácido 17,Light Fast Yellow 2G Coloring,Acid Yellow 17,Lissamine Fast Yellow,Acid Leather Yellow 2GL,Erio Flavine SX 3G,Fenalan Yellow G,Kayacyl Yellow GG,CI 18965 
+
+E107
+Amarillo 2G
+Peligroso
+XXXXXXXXX
+Amarillo Crepúsculo,Amarillo Anaranjado S,Amarillo Naranja RGL,Amarillo 6,Amarillo Ácido 17,Food Yellow 3,Lissamine Fast Yellow 2G,Sunset Yellow Coloring Dye,Yellow Food 5,CI 18965 
+
+E110
+Amarillo Ocaso FCF
+Peligroso
+XXXXXXXXX
+Anaranjado GGN,Naranja Alfa-Naftol,Orange GNN Coloring,Alpha-Naphthol Orange Dye,Food Orange 2,CI 15980 
+
+E111
+Naranja GGN
+Peligroso
+XXXXXXXXX
+Carmín Acético,Rojo Natural 4,Rojo Ácido de Carmín,Laca Carmesí,Natural Red 4,Carminic Acid Coloring Dye,Karminsaure,CI 75470 
+
+E120
+Ácido Carmínico
+Peligroso
+XXXXXXXXX
+Carmín Acético,Rojo Natural 4,Rojo Ácido de Carmín,Laca Carmesí,Natural Red 4,Carminic Acid Coloring Dye,Karminsaure,CI 75470 
+
+E120i
+Rojo Carmín
+Peligroso
+XXXXXXXXX
+Carmín Acético,Rojo Natural 4,Rojo Ácido de Carmín,Laca Carmesí,Natural Red 4,Carminic Acid Coloring Dye,Karminsaure,CI 75470 
+
+E120ii
+Extracto de Cochinilla
+Peligroso
+XXXXXXXXX
+Rojo Limón 2,
+
+E121
+Rojo Cítrico 2
+Peligroso
+XXXXXXXXX
+Carmoisina,Colorante de Fresa,Rojo 5,Food Red 3,Acid Red 14,Azo Rubin Coloring Dye,D&amp;C Red 10,CI 14720 
+
+E122
+Azorrubina
+Peligroso
+XXXXXXXXX
+Azorrubina S,Rojo de Naftol,Rojo Naftilamina,Rojo 9,Rojo Ácido 27,Naphtol Red,Naphtylamine Red,Food Red 9,Acid Red 27,FD&amp;C Red 2,CI 16185 
+
+E123
+Amaranto
+Peligroso
+XXXXXXXXX
+Rojo Cochinilla A,Rojo 7,Escarlata Brillante 4R,Acid Red 18,Food Red 7,Cochineal Red A,New Coccine,Brilliant Scarlet 4R,CI 16255 
+
+E124
+Ponceau 4R
+Peligroso
+XXXXXXXXX
+Rojo 1,Rojo 4,Escarlata GN,Purple 4R,Crimson 4R,Food Red 1,FD &amp; C Red 4,Scarlet GN,Hexacol SX,Maple SX,CI 14700 
+
+E125
+Ponceau SX
+Peligroso
+XXXXXXXXX
+Escarlata Cristal,Escarlata Cristal Brillante,Rojo Ácido 44,Acid Red 44,Crystal Scarlet,Crystal Scarlet 6R,Crystal Ponceau 6R,Brilliant Crystal Scarlet 6R,CI 16250 
+
+E126
+Ponceau 6R
+Peligroso
+XXXXXXXXX
+Rojo Ácido 51,Rojo 3,Rojo 14,Sal Disódica de Tetraiodo Fluoresceína,Laca de Eritrosina Alumínica,Food Red 14,FD&amp;C Red 3,Acid Red 51,Acid Violet 51,Erythrosine B &amp; Erythrosin BS,Eritrosin,Eosina B,Eosin J,CI 45430 
+
+E127
+Eritrosina
+Peligroso
+XXXXXXXXX
+Rojo Ácido 1,Rojo 10 
+
+E128
+Rojo 2G
+Peligroso
+XXXXXXXXX
+Rojo 40,Rojo 40 Laca,Rojo Lago,Rojo 17,CI Food Red 17 
+
+E129
+Rojo Allura AC
+Peligroso
+XXXXXXXXX
+Azul de Antracenediona,Azul de Dioxoantraceno,Azul Indantreno RS,Azul 2N,Azul A y B,Azul AP,Disolvente Azul 35 y 36 
+
+E130
+Azul de Antraquinona
+Peligroso
+XXXXXXXXX
+Azul Patentado 5,Food Blue 5 
+
+E131
+Azul Patente V
+Peligroso
+XXXXXXXXX
+Indigotín,Carmín Índigo,Azul Laca 2,Blue 2 Lake,Indigotine,FD&amp;C Blue 2 Dye,CI Food Blue 2 
+
+E132
+Indigotina
+Sospechoso
+XXXXXXXXX
+Azul Brillante FCP,Azul Laca 1,Blue 1 Lake,FD&amp;C Blue 1,Patent Blue AR,Alzen Food Blue 1,Atracid Blue FG,Acid Blue 9,D&amp;C Blue No. 4,Xylene Blue VSG,Erioglaucine,Eriosky Blue,CI 42090 Basacid Blue 755,Sulfacid Brilliant Blue 5 J,Neolan Blue E-A Brilliant Blue FD 
+
+E133
+Azul Brillante FCF
+Peligroso
+XXXXXXXXX
+En revisión 
+
+E134
+Extracto de Espirulina
+En revisión
+XXXXXXXXX
+Verde Natural 3,Clorofila Magnésica,Clorofilina Sódica-Potásica,Feofitina,CI Natural Green 3 
+
+E140
+Clorofilas y Clorofilinas
+Seguro
+XXXXXXXXX
+Verde Natural 3,Clorofila Magnésica,Feofitina,Chlorophyll,CI Natural Green 3 
+
+E140i
+Clorofila
+Seguro
+XXXXXXXXX
+Verde Natural 5,Clorofilina Sódica-Potásica,Chlorophyllin,CI Natural Green 5 
+
+E140ii
+Clorofilina
+Seguro
+XXXXXXXXX
+Verde Natural 3,Clorofila Cúprica,Feofitina,CI Natural Green 3 
+
+E141
+Complejos Cúpricos de Clorofilas y Clorofilinas
+Seguro
+XXXXXXXXX
+Verde Natural 3,Clorofila Cúprica,Feofitina,CI Natural Green 3 
+
+E141i
+Complejo Cúprico de Clorofila
+Seguro
+XXXXXXXXX
+Verde Natural 3,Clorofilina Cúprica,Feofitina,CI Natural Green 3 
+
+E141ii
+Complejo Cúprico de Clorofilina
+Seguro
+XXXXXXXXX
+Verde 4,Verde Ácido 50,Verde Lisamina,Verde Brillante BS,Verde S,CI Food Green 4 
+
+E142
+Verde S
+Peligroso
+XXXXXXXXX
+Verde Rápido FCF,Solid Green FCF,Fast Green FCF,Food Green 3,FD&amp;C Green No.3,Green 1724,Echtgrün FCF,CI 42053 
+
+E143
+Verde Sólido FCF
+Peligroso
+XXXXXXXXX
+Caramelina,Caramelo Alimentario,Colorante Caramelizado 
+
+E150
+Caramelos
+Sospechoso
+XXXXXXXXX
+Caramelo Clase I,Caramelo Natural,Caramelo Simple,Caramelo Alimentario,Burnt Sugar 1,Caustic Caramel 
+
+E150a
+Caramelo Cáustico
+Sospechoso
+XXXXXXXXX
+Caramelo Clase II,Caramelo Alimentario,Burnt Sugar 2,Sulphite Caustic Caramel 
+
+E150b
+Caramelo Caústico de Sulfito
+Sospechoso
+XXXXXXXXX
+Caramelo Clase III,Caramelo Alimentario,Burnt Sugar 3,Ammonia Caramel 
+
+E150c
+Caramelo Amónico
+Sospechoso
+XXXXXXXXX
+Caramelo Clase IV,Caramelo Alimentario,Burnt Sugar 4,Sulphite Ammonia Caramel 
+
+E150d
+Caramelo Amónico de Sulfito
+Sospechoso
+XXXXXXXXX
+Negro PN,Negro Naftol,Negro 1,CI Food Black 1 
+
+E151
+Negro Brillante BN
+Peligroso
+XXXXXXXXX
+Negro 2,Negro Azoico,CI 27755 
+
+E152
+Negro 7984
+Peligroso
+XXXXXXXXX
+Carbón Vegetal Medicinal,Negro Vegetal,Negro Carbono 
+
+E153
+Carbón Vegetal
+Seguro
+XXXXXXXXX
+Marrón 1 
+
+E154
+Marrón FK
+Peligroso
+XXXXXXXXX
+Marrón 3,Marrón Chocolate HT,CI Food Brown 3 
+
+E155
+Marrón HT
+Peligroso
+XXXXXXXXX
+Carotenoides,Caroteno Vegetal,Naranja 5,CI Food Orange 5 
+
+E160
+Carotenos
+Seguro
+XXXXXXXXX
+Betacaroteno,β-caroteno,Naranja 5 o CI Food Orange 5 
+
+E160a
+Betacarotenos
+Seguro
+XXXXXXXXX
+En revisión 
+
+E160a(i)
+Betacaroteno Sintético
+En revisión
+XXXXXXXXX
+Carotenos de Plantas,Carotenos Vegetales,CI Food Orange 5 
+
+E160a(ii)
+Betacaroteno Vegetal
+En revisión
+XXXXXXXXX
+En revisión 
+
+E160a(iii)
+Betacaroteno de Blakeslea Trispora
+En revisión
+XXXXXXXXX
+En revisión 
+
+E160a(iv)
+Betacaroteno de Algas
+En revisión
+XXXXXXXXX
+Naranja Natural 4,Extracto de Achiote,Onoto,Urucú,CI Natural Orange 4 
+
+E160b
+Extractos de Annato
+Seguro
+XXXXXXXXX
+Bixina Extraída con Disolvente 
+
+E160b(i)
+Extracto de Annato con Disolventes
+En revisión
+XXXXXXXXX
+Norbixina Extraída con Álcalis 
+
+E160b(ii)
+Extracto de Annato con Álcalis
+En revisión
+XXXXXXXXX
+En revisión 
+
+E160b(iii)
+Extracto de Annato con Aceite
+En revisión
+XXXXXXXXX
+Oleorresina de Pimentón,ORP,Extracto de Paprika 
+
+E160c
+Extractos de Pimentón
+Seguro
+XXXXXXXXX
+En revisión 
+
+E160c(i)
+Oleorresina de Pimentón
+En revisión
+XXXXXXXXX
+En revisión 
+
+E160c(ii)
+Extracto de Pimentón
+En revisión
+XXXXXXXXX
+Amarillo Natural 27,Lycopene 
+
+E160d
+Licopenos
+Seguro
+XXXXXXXXX
+En revisión 
+
+E160d(i)
+Licopeno Sintético
+En revisión
+XXXXXXXXX
+En revisión 
+
+E160d(ii)
+Licopeno de Tomate
+En revisión
+XXXXXXXXX
+En revisión 
+
+E160d(iii)
+Licopeno de Blakeslea Trispora
+En revisión
+XXXXXXXXX
+Beta-Apo-Carotenal,Betapocarotenal,Naranja 6,CI Food Orange 6 
+
+E160e
+Beta-Apo-8'-Carotenal (C30)
+Seguro
+XXXXXXXXX
+Éster Etílico del Ácido Beta-Apocarotenoico,Naranja 6,CI Food Orange 6 
+
+E160f
+Éster Etílico del Ácido Beta-Apo-8'-Carotenoico
+Seguro
+XXXXXXXXX
+Xantinas,Filoxantinas 
+
+E161
+Xantófilas
+Sospechoso
+XXXXXXXXX
+Flavoxantófila 
+
+E161a
+Flavoxantina
+Sospechoso
+XXXXXXXXX
+β,ε-Carotene-3,3'-Diol 
+
+E161b
+Luteínas
+Seguro
+XXXXXXXXX
+En revisión 
+
+E161b(i)
+Luteína de Tagetes Erecta
+En revisión
+XXXXXXXXX
+En revisión 
+
+E161b(ii)
+Extracto de Tagetes
+En revisión
+XXXXXXXXX
+En revisión 
+
+E161b(iii)
+Ésteres de Luteínas de Tagetes Erecta
+En revisión
+XXXXXXXXX
+Criptoxantófila 
+
+E161c
+Criptoxantina
+Sospechoso
+XXXXXXXXX
+Rubixantófila,Amarillo Natural 27 
+
+E161d
+Rubixantina
+Sospechoso
+XXXXXXXXX
+Violaxantófila 
+
+E161e
+Violaxantina
+Sospechoso
+XXXXXXXXX
+Rodoxantófila 
+
+E161f
+Rodoxantina
+Sospechoso
+XXXXXXXXX
+Naranja 8,Cantaxantófila,Cantaxanthin,CI Food Orange 8 
+
+E161g
+Cantaxantina
+Peligroso
+XXXXXXXXX
+Zeaxantófila 
+
+E161h
+Zeaxantinas
+Seguro
+XXXXXXXXX
+En revisión 
+
+E161h(i)
+Zeaxantina Sintética
+En revisión
+XXXXXXXXX
+En revisión 
+
+E161h(ii)
+Zeaxantina Rica En Extracto de Tagetes Erecta
+En revisión
+XXXXXXXXX
+En revisión 
+
+E161i
+Citranaxantina
+En revisión
+XXXXXXXXX
+Astaxantófila 
+
+E161j
+Astaxantina
+Seguro
+XXXXXXXXX
+Betanina,Betacianina,Extracto de Rojo Remolacha 
+
+E162
+Rojo de Remolacha
+Seguro
+XXXXXXXXX
+Antocianina,Antocianos,Anthocyanin Dye,Anthocyanins,Aurantinidinas,Capensinidinas,Cianidinas,Delfinidinas,Europinidinas,Luteolinidinas,Malvidinas,Pelargonidinas,Peonidinas,Petunidinas,Rosinidinas 
+
+E163
+Antocianinas
+Seguro
+XXXXXXXXX
+En revisión 
+
+E163i
+Extracto de Rábano
+En revisión
+XXXXXXXXX
+En revisión 
+
+E163ii
+Extracto de Piel de Uva
+En revisión
+XXXXXXXXX
+En revisión 
+
+E163iii
+Extracto de Grosella Negra
+En revisión
+XXXXXXXXX
+En revisión 
+
+E163iv
+Colorante de Maíz morado
+En revisión
+XXXXXXXXX
+En revisión 
+
+E163v
+Colorante de Col Lombarda
+En revisión
+XXXXXXXXX
+En revisión 
+
+E163vi
+Extracto de Zanahoria Negra
+En revisión
+XXXXXXXXX
+En revisión 
+
+E163vii
+Colorante de Batata Morada
+En revisión
+XXXXXXXXX
+En revisión 
+
+E163viii
+Colorante de Rábano Rojo
+En revisión
+XXXXXXXXX
+En revisión 
+
+E163ix
+Colorante de Saúco
+En revisión
+XXXXXXXXX
+En revisión 
+
+E163x
+Colorante de Hibisco
+En revisión
+XXXXXXXXX
+En revisión 
+
+E163xi
+Extracto de Campanilla Azul
+En revisión
+XXXXXXXXX
+Cianidinina,Extracto de Rábanos 
+
+E163a
+Cianidina
+Seguro
+XXXXXXXXX
+Delfinidinina,Extracto de Piel de Uva 
+
+E163b
+Delfinidina
+Seguro
+XXXXXXXXX
+Malvidinina,Extracto de Grosella Negra 
+
+E163c
+Malvidina
+Seguro
+XXXXXXXXX
+Pelargonidinina,Extracto de Maíz Morado 
+
+E163d
+Pelargonidina
+Seguro
+XXXXXXXXX
+Peonidinina,Extracto de Col Morada 
+
+E163e
+Peonidina
+Seguro
+XXXXXXXXX
+Petunidinina,Extracto de Petunia 
+
+E163f
+Petunidina
+Seguro
+XXXXXXXXX
+Amarillo de Azafrán,Colorante Crocina,Tinte de Crocetina 
+
+E164
+Amarillo de Gardenia
+En revisión
+XXXXXXXXX
+Genipin,Blue Gardenia,Bleu de Gardénia 
+
+E165
+Azul de Gardenia
+Peligroso
+XXXXXXXXX
+En revisión 
+
+E166
+Madera de Sándalo
+En revisión
+XXXXXXXXX
+Carbonatos de Calcio,Creta,Blanco 18,CI Pigment White 18 
+
+E170
+Carbonatos Cálcicos
+Seguro
+XXXXXXXXX
+Carbonato de Calcio,Creta,Blanco 18,CI Pigment White 18 
+
+E170i
+Carbonato Cálcico
+Seguro
+XXXXXXXXX
+Bicarbonato de Calcio,Carbonato Ácido de Calcio,Bicarbonato de Hidrógeno Cálcico,Hidrogenocarbonato de Calcio,Hidrógeno de Calcio Carbonatado,Creta,Blanco 18,CI Pigment White 18 
+
+E170ii
+Bicarbonato Cálcico
+Seguro
+XXXXXXXXX
+Blanco de Titanio,Óxido de Titanio,Bióxido de Titanio,TiO2,Blanco 6,CI Pigment White 6,CI-77891 
+
+E171
+Dióxido de Titanio
+Peligroso
+XXXXXXXXX
+Óxidos de Hierro,Óxidos Ferrosos,Óxidos Férricos,Hidróxidos de Hierro,Iron Oxide 
+
+E172
+Óxidos E Hidróxidos Férricos
+Seguro
+XXXXXXXXX
+Óxido de Hierro Negro,Black Iron Oxide 
+
+E172i
+Óxido Férrico Negro
+En revisión
+XXXXXXXXX
+Óxido de Hierro Rojo,Red Iron Oxide 
+
+E172ii
+Óxido Férrico Rojo
+En revisión
+XXXXXXXXX
+Óxido de Hierro Amarillo,Yellow Iron Oxide 
+
+E172iii
+Óxido Férrico Amarillo
+En revisión
+XXXXXXXXX
+Aluminum,CI Pigment Metal 
+
+E173
+Aluminio Comestible
+Peligroso
+XXXXXXXXX
+Argentum,CI Food Silver 
+
+E174
+Plata Comestible
+Peligroso
+XXXXXXXXX
+Aurum,Gold,Au,CI Pigment Metal 3 
+
+E175
+Oro Comestible
+Peligroso
+XXXXXXXXX
+En revisión 
+
+E176
+Pigmentos Nacarados de Aluminosilicato Potásico
+En revisión
+XXXXXXXXX
+En revisión 
+
+E176i
+Pigmentos Nacarados de Aluminosilicato Potásico Recubiertos de Dióxido de Titanio
+En revisión
+XXXXXXXXX
+En revisión 
+
+E176ii
+Pigmentos Nacarados de Aluminosilicato Potásico Recubiertos de Óxido de Hierro
+En revisión
+XXXXXXXXX
+En revisión 
+
+E176iii
+Pigmentos Nacarados de Aluminosilicato Potásico Recubiertos de Dióxido de Titanio y Óxido de Hierro
+En revisión
+XXXXXXXXX
+Pigmento Rubí,Rojo 57,Carmín 6B,CI Pigment Red 57 
+
+E180
+Litolrubina BK
+Peligroso
+XXXXXXXXX
+Taninos,Tierra Sombra Quemada 
+
+E181
+Ácido Tánico
+En revisión
+XXXXXXXXX
+Rojo Cítrico 3,Oricello,Orcina,Orchilla,Orcilla,Urcilla,Urchilla,Orchella 
+
+E182
+Orceína
+Peligroso
+XXXXXXXXX
+Genipina-Glicina 
+
+E183
+Azul de Jagua
+En revisión
+XXXXXXXXX
+Ácido 2,4-Hexadienoico 
+
+E200
+Ácido Sórbico
+Seguro
+XXXXXXXXX
+Sorbato de Sodio 
+
+E201
+Sorbato Sódico
+Seguro
+XXXXXXXXX
+Sorbato de Potasio 
+
+E202
+Sorbato Potásico
+Seguro
+XXXXXXXXX
+Sorbato de Calcio 
+
+E203
+Sorbato Cálcico
+Sospechoso
+XXXXXXXXX
+PHB de Heptilo,Parabeno 
+
+E209
+Para-Hidroxibenzoato de Heptilo
+En revisión
+XXXXXXXXX
+Ácido Bencenocarboxílico,Carboxibenceno 
+
+E210
+Ácido Benzoico
+Peligroso
+XXXXXXXXX
+Benzoato de Sodio 
+
+E211
+Benzoato Sódico
+Peligroso
+XXXXXXXXX
+Benzoato de Potasio 
+
+E212
+Benzoato Potásico
+Peligroso
+XXXXXXXXX
+Benzoato de Calcio 
+
+E213
+Benzoato Cálcico
+Peligroso
+XXXXXXXXX
+Etilhidroxibenzoato,Etil-P-Hidroxibenzoato,Etil-PHB,Etilparabeno 
+
+E214
+Para-Hidroxibenzoato de Etilo
+Peligroso
+XXXXXXXXX
+Etilhidroxibenzoato Sódico,Etil-P-Hidroxibenzoato de Sodio,Etil-PHB Sódico,Etilparabeno 
+
+E215
+Para-Hidroxibenzoato Sódico de Etilo
+Peligroso
+XXXXXXXXX
+Propilhidroxibenzoato,Propil-P-Hidroxibenzoato,Propil-PHB,Propilparabeno 
+
+E216
+Para-Hidroxibenzoato de Propilo
+Peligroso
+XXXXXXXXX
+Propilhidroxibenzoato Sódico,Propil-P-Hidroxibenzoato de Sodio,Propil-PHB Sódico,Propilparabeno 
+
+E217
+Para-Hidroxibenzoato Sódico de Propilo
+Peligroso
+XXXXXXXXX
+Metilhidroxibenzoato,Metil-P-Hidroxibenzoato,Metil-PHB,Metilparabeno 
+
+E218
+Para-Hidroxibenzoato de Metilo
+Peligroso
+XXXXXXXXX
+Metilhidroxibenzoato Sódico,Metil-P-Hidroxibenzoato de Sodio,Metil-PHB Sódico,Metilparabeno 
+
+E219
+Para-Hidroxibenzoato Sódico de Metilo
+Peligroso
+XXXXXXXXX
+Sulfitos,Óxido de Azufre,Anhídrido Sulfuroso 
+
+E220
+Dióxido de Azufre
+Peligroso
+XXXXXXXXX
+Sulfito de Sodio 
+
+E221
+Sulfito Sódico
+Peligroso
+XXXXXXXXX
+Bisulfito de Sodio,Disulfito de Sodio,Sulfito Ácido de Sodio,Hidrogensulfito de Sodio 
+
+E222
+Bisulfito Sódico
+Peligroso
+XXXXXXXXX
+Metasulfito de Sodio,Metadisulfito Sódico,Disulfito Sódico,Pentaoxodisulfato Disódico 
+
+E223
+Metabisulfito Sódico
+Peligroso
+XXXXXXXXX
+Metasulfito de Potasio,Metadisulfito Potásico 
+
+E224
+Metabisulfito Potásico
+Peligroso
+XXXXXXXXX
+Sulfito de Potasio 
+
+E225
+Sulfito Potásico
+Peligroso
+XXXXXXXXX
+Sulfito de Calcio 
+
+E226
+Sulfito Cálcico
+Peligroso
+XXXXXXXXX
+Bisulfito de Calcio,Disulfito Cálcico,Sulfito Ácido de Calcio 
+
+E227
+Bisulfito Cálcico
+Peligroso
+XXXXXXXXX
+Bisulfito de Potasio,Disulfito Potásico,Sulfito Ácido de Potasio 
+
+E228
+Bisulfito Potásico
+Peligroso
+XXXXXXXXX
+Difenilo 
+
+E230
+Bifenilo
+Peligroso
+XXXXXXXXX
+Orto-Fenilfenol,2-Fenilfenol,O-Fenilfenato 
+
+E231
+Ortofenilfenol
+Peligroso
+XXXXXXXXX
+Orto-Fenilfenol de Sodio,2-Fenilfenol,O-Fenilfenato 
+
+E232
+Ortofenilfenol Sódico
+Peligroso
+XXXXXXXXX
+2-(4-Tiazolil) Benzimidazol 
+
+E233
+Tiabendazol
+Peligroso
+XXXXXXXXX
+Nisin,Nisine 
+
+E234
+Nisina
+Seguro
+XXXXXXXXX
+Pimaricina 
+
+E235
+Natamicina
+Seguro
+XXXXXXXXX
+Ácido Metanoico 
+
+E236
+Ácido Fórmico
+Peligroso
+XXXXXXXXX
+Formiato de Sodio 
+
+E237
+Formiato Sódico
+Peligroso
+XXXXXXXXX
+Formiato de Calcio 
+
+E238
+Formiato Cálcico
+Peligroso
+XXXXXXXXX
+HMTA,Hexametilenetetramina,Hexamina,Metenamina,Urotropina,Formamina,Hexaformo 
+
+E239
+Hexametilentetramina
+Peligroso
+XXXXXXXXX
+Metanal,Formalina,Formol 
+
+E240
+Formaldehído
+Peligroso
+XXXXXXXXX
+Goma de Guayacán,Guaiacum,Guajacum 
+
+E241
+Goma de Guayaco
+En revisión
+XXXXXXXXX
+Dimetil Pirocarbonato 
+
+E242
+Dimetil Dicarbonato
+Peligroso
+XXXXXXXXX
+Etil Éster de Arginato Láurico,Etil Éster de Arginina Lauramida,Etil-Nα-Lauroil-L-Arginato&#183;HCl y LAE&#174; 
+
+E243
+Etil-Lauroil Arginato
+Seguro
+XXXXXXXXX
+Nitrito de Potasio 
+
+E249
+Nitrito Potásico
+Peligroso
+XXXXXXXXX
+Nitrito de Sodio 
+
+E250
+Nitrito Sódico
+Peligroso
+XXXXXXXXX
+Nitrato de Sodio,Nitro Cúbico,Nitro de Sosa 
+
+E251
+Nitrato Sódico
+Sospechoso
+XXXXXXXXX
+Nitrato de Sodio en Estado Sólido 
+
+E251i
+Nitrato Sódico Sólido
+En revisión
+XXXXXXXXX
+Nitrato de Sodio en Estado Líquido 
+
+E251ii
+Nitrato Sódico Líquido
+En revisión
+XXXXXXXXX
+Nitrato de Potasio,Nitrato de Chile 
+
+E252
+Nitrato Potásico
+Sospechoso
+XXXXXXXXX
+Ácido Acético Glacial,Ácido Etanoico 
+
+E260
+Ácido Acético
+Seguro
+XXXXXXXXX
+Acetatos de Potasio 
+
+E261
+Acetatos Potásicos
+Seguro
+XXXXXXXXX
+Acetato de Potasio 
+
+E261i
+Acetato Potásico
+En revisión
+XXXXXXXXX
+Diacetato de Potasio 
+
+E261ii
+Diacetato Potásico
+En revisión
+XXXXXXXXX
+Acetatos de Sodio 
+
+E262
+Acetatos Sódicos
+Seguro
+XXXXXXXXX
+Acetato de Sodio 
+
+E262i
+Acetato Sódico
+En revisión
+XXXXXXXXX
+Diacetato de Sodio 
+
+E262ii
+Diacetato Sódico
+En revisión
+XXXXXXXXX
+Acetato de Calcio 
+
+E263
+Acetato Cálcico
+Seguro
+XXXXXXXXX
+Acetato de Amonio 
+
+E264
+Acetato Amónico
+Seguro
+XXXXXXXXX
+Ácido Dehidracético,Ácido Deshidroacético,DHA 
+
+E265
+Ácido Dehidroacético
+En revisión
+XXXXXXXXX
+Dehidroacetato de Sodio 
+
+E266
+Dehidroacetato Sódico
+En revisión
+XXXXXXXXX
+Ácido L-Láctico,Ácido D-Láctico,Ácido DL-Láctico,Ácido 2-Hidroxipropanoico 
+
+E270
+Ácido Láctico
+Seguro
+XXXXXXXXX
+Ácido Propanoico,Ácido Etanocarboxílico 
+
+E280
+Ácido Propiónico
+Peligroso
+XXXXXXXXX
+Propionato de Sodio,Propanoato de Sodio 
+
+E281
+Propionato Sódico
+Peligroso
+XXXXXXXXX
+Propionato de Calcio,Propanoato de Calcio 
+
+E282
+Propionato Cálcico
+Peligroso
+XXXXXXXXX
+Propionato de Potasio,Propanoato de Potasio 
+
+E283
+Propionato Potásico
+Peligroso
+XXXXXXXXX
+Ácido Borácico,Ácido Ortobórico 
+
+E284
+Ácido Bórico
+Peligroso
+XXXXXXXXX
+Bórax,Borato,Biborato,Piroborato de Sodio,Disodio Tetraborato Decahidratado 
+
+E285
+Tetraborato Sódico
+Peligroso
+XXXXXXXXX
+Anhídrido Carbónico,Óxido de Carbono,Gas Carbónico 
+
+E290
+Dióxido de Carbono (CO2)
+Seguro
+XXXXXXXXX
+Ácido DL-Málico,Ácido 2-Hidroxi 1,4-Butanodioico,Ácido Hidroxibutanodioico 
+
+E296
+Ácido Málico
+Sospechoso
+XXXXXXXXX
+Ácido (E)-Butenodioico 
+
+E297
+Ácido Fumárico
+Seguro
+XXXXXXXXX
+Ácido L-Ascórbico 
+
+E300
+Ácido Ascórbico
+Seguro
+XXXXXXXXX
+Ascorbato de Sodio 
+
+E301
+Ascorbato Sódico
+Seguro
+XXXXXXXXX
+Ascorbato de Calcio 
+
+E302
+Ascorbato Cálcico
+Seguro
+XXXXXXXXX
+Ascorbato de Potasio 
+
+E303
+Ascorbato Potásico
+Seguro
+XXXXXXXXX
+5-((s)-1,2-Dihidroxietil)-3,4-Dihidroxifuran-2(5H)-Ona 
+
+E304
+Ésteres de Ácidos Grasos del Ácido Ascórbico
+Seguro
+XXXXXXXXX
+Ácido 6-O-Palmitoylascórbico,L-Ácido Ascórbico 6-Hexadecanoato,Éster de Vitamina C,Ascorbyl Palmitate 
+
+E304i
+Palmitato de Ascorbilo
+Seguro
+XXXXXXXXX
+Ácido L-Ascórbico,6-Octadecanoato,Ascorbil Monooctadecanoato,2,3-Dideshidro-L-Treo-Hexono-1,4-Lactona-6-Estearato,6-Estearoíl-3-Ceto-L-Gulofuranolactona,Ascorbyl Estearate 
+
+E304ii
+Estearato de Ascorbilo
+Seguro
+XXXXXXXXX
+Tocopherols 
+
+E306
+Extractos Naturales Ricos en Tocoferoles
+Seguro
+XXXXXXXXX
+Alpha-Tocopherol,α-Tocopherol,Dextro α-Tocopherol 
+
+E307
+Alfa-Tocoferol
+Seguro
+XXXXXXXXX
+En revisión 
+
+E307a
+D-Alfa-Tocoferol
+En revisión
+XXXXXXXXX
+Mezcla de Tocoferol Concentrado 
+
+E307b
+L-Alfa-Tocoferol
+En revisión
+XXXXXXXXX
+En revisión 
+
+E307c
+DL-Alfa-Tocoferol
+En revisión
+XXXXXXXXX
+Gamma-Tocopherol,γ-Tocopherol 
+
+E308
+Gamma-Tocoferol
+Seguro
+XXXXXXXXX
+Delta-Tocopherol,δ-Tocopherol 
+
+E309
+Delta-Tocoferol
+Seguro
+XXXXXXXXX
+Propil Galato,Gelato de Propilo,Propyl Gallate,PG 
+
+E310
+Galato de Propilo
+Peligroso
+XXXXXXXXX
+Octil Galato,Gelato de Octilo,Octyl Gallate,OG 
+
+E311
+Galato de Octilo
+Peligroso
+XXXXXXXXX
+Dodecil Galato,Lauril Galato,Gelato de Dodecilo,Galato de Laurilo,Dodecyl Gallate,Lauryl Gallate,DG,LG 
+
+E312
+Galato de Dodecilo
+Peligroso
+XXXXXXXXX
+Etil Galato,Gelato de Etilo,Ethyl Gallate,EG 
+
+E313
+Galato de Etilo
+En revisión
+XXXXXXXXX
+Resina de Guayacán,Guaiacum,Guajacum 
+
+E314
+Resina de Guayaco
+En revisión
+XXXXXXXXX
+Ácido Isoascórbico,Ácido Araboascórbico 
+
+E315
+Ácido Eritórbico
+Seguro
+XXXXXXXXX
+Isoascorbato de Sodio,Araboascorbato Sódico 
+
+E316
+Eritorbato Sódico
+Seguro
+XXXXXXXXX
+Isoascorbato de Potasio,Araboascorbato Potásico 
+
+E317
+Eritorbato Potásico
+En revisión
+XXXXXXXXX
+Isoascorbato de Calcio,Araboascorbato Cálcico 
+
+E318
+Eritorbato Cálcico
+En revisión
+XXXXXXXXX
+Butilhidroquinona,BHQ,Hidroquinona Terciaria,THBQ 
+
+E319
+Terbutilhidroquinona (TBHQ)
+Peligroso
+XXXXXXXXX
+Hidroxianisol,Butil-Hidroxi-Anisol 
+
+E320
+Butilhidroxianisol (BHA)
+Peligroso
+XXXXXXXXX
+Butilhidroxitoluol,Butilfenol,Butil-Hidroxi-Tolueno 
+
+E321
+Butilhidroxitolueno (BHT)
+Peligroso
+XXXXXXXXX
+Fosfolípidos de Lecitina,Fosfátidos de Lecitina 
+
+E322
+Lecitinas
+Seguro
+XXXXXXXXX
+En revisión 
+
+E322i
+Lecitina de Avena
+En revisión
+XXXXXXXXX
+En revisión 
+
+E322ii
+Lecitina Parcialmente Hidrolizada
+En revisión
+XXXXXXXXX
+En revisión 
+
+E322iii
+Lecitina Hidroxilada
+En revisión
+XXXXXXXXX
+Poly Ao-79 
+
+E323
+Anoxómero
+En revisión
+XXXXXXXXX
+Etoxiquinolina,Etoxi Trimetil Dihidroquinolina,Etoxi Dihidro Trimetil Quinolina,Ethoxyquin,Ethoxy Trimethyl Dihydroquinoline 
+
+E324
+Etoxiquina
+Peligroso
+XXXXXXXXX
+Lacto de Sodio 
+
+E325
+Lactato Sódico
+Seguro
+XXXXXXXXX
+Lacto de Potasio 
+
+E326
+Lactato Potásico
+Seguro
+XXXXXXXXX
+Lacto de Calcio 
+
+E327
+Lactato Cálcico
+Seguro
+XXXXXXXXX
+Lacto de Amonio 
+
+E328
+Lactato Amónico
+Seguro
+XXXXXXXXX
+Lacto de Magnesio,Lactato DL-Magnésico 
+
+E329
+Lactato Magnésico
+Seguro
+XXXXXXXXX
+Ácido Cítrico Anhidro 
+
+E330
+Ácido Cítrico
+Seguro
+XXXXXXXXX
+Citrato de Sodio 
+
+E331
+Citratos Sódicos
+Seguro
+XXXXXXXXX
+Citrato de Monosodio,Citrato Monoácido de Sodio 
+
+E331i
+Citrato Monosódico
+Seguro
+XXXXXXXXX
+Citrato de Disodio,Citrato Diácido de Sodio 
+
+E331ii
+Citrato Disódico
+Seguro
+XXXXXXXXX
+Citrato de Trisodio,Citrato Triácido de Sodio 
+
+E331iii
+Citrato Trisódico
+Seguro
+XXXXXXXXX
+Citratos de Potasio 
+
+E332
+Citratos Potásicos
+Seguro
+XXXXXXXXX
+Citratos de Monopotasio,Citrato Monoácido de Potasio 
+
+E332i
+Citrato Monopotásico
+Seguro
+XXXXXXXXX
+Citratos de Dipotasio,Citrato Diácido de Potasio 
+
+E332ii
+Citrato Dipotásico
+Seguro
+XXXXXXXXX
+Citratos de Tripotasio,Citrato Triácido de Potasio 
+
+E332iii
+Citrato Tripotásico
+Seguro
+XXXXXXXXX
+Citratos de Calcio 
+
+E333
+Citratos Cálcicos
+Seguro
+XXXXXXXXX
+Citratos de Monocalcio,Citrato Monoácido de Calcio 
+
+E333i
+Citrato Monocálcico
+Seguro
+XXXXXXXXX
+Citratos de Dicalcio,Citrato Diácido de Calcio 
+
+E333ii
+Citrato Dicálcico
+Seguro
+XXXXXXXXX
+Citratos de Tricalcio,Citrato Triácido de Calcio 
+
+E333iii
+Citrato Tricálcico
+Seguro
+XXXXXXXXX
+Ácido Tártrico,Ácido L(+)-Tartárico,Ácido 2,3-Dihidroxibutanodioico 
+
+E334
+Ácido Tartárico
+Seguro
+XXXXXXXXX
+L-Tartrato,L-Tartrata 
+
+E335
+Tartratos Sódicos
+Seguro
+XXXXXXXXX
+Tartrato de Monosodio,Tartrato Monoácido de Sodio 
+
+E335i
+Tartrato Monosódico
+Seguro
+XXXXXXXXX
+Tartrato de Disodio,Tartrato Diácido de Sodio 
+
+E335ii
+Tartrato Disódico
+Seguro
+XXXXXXXXX
+L-Tartrato,L-Tartrata 
+
+E336
+Tartratos Potásicos
+Seguro
+XXXXXXXXX
+Tartrato de Monopotasio,Tartrato Monoácido de Potasio 
+
+E336i
+Tartrato Monopotásico
+Seguro
+XXXXXXXXX
+Tartrato de Dipotasio,Tartrato Diácido de Potasio,Bitartrato Potásico 
+
+E336ii
+Tartrato Dipotásico
+Seguro
+XXXXXXXXX
+Tartrato Doble de Sodio y Potasio 
+
+E337
+Tartrato Sódico-Potásico
+Seguro
+XXXXXXXXX
+Ácido Ortofosfórico,Acid 1A338 
+
+E338
+Ácido Fosfórico
+Sospechoso
+XXXXXXXXX
+Ortofosfatos de Sodio,Sales Sódicas del Ácido Fosfórico 
+
+E339
+Fosfatos Sódicos
+Sospechoso
+XXXXXXXXX
+Fosfato Monoácido de Sodio 
+
+E339i
+Fosfato Monosódico
+Sospechoso
+XXXXXXXXX
+Fosfato Diácido de Sodio,Fosfato Bisódico,Hidrogenofosfato Disódico 
+
+E339ii
+Fosfato Disódico
+Sospechoso
+XXXXXXXXX
+Fosfato Triácido de Sodio 
+
+E339iii
+Fosfato Trisódico
+Sospechoso
+XXXXXXXXX
+Ortofosfatos de Potasio,Sales Potásicas del Ácido Fosfórico 
+
+E340
+Fosfatos Potásicos
+Sospechoso
+XXXXXXXXX
+Fosfato Monoácido de Potasio 
+
+E340i
+Fosfato Monopotásico
+Sospechoso
+XXXXXXXXX
+Fosfato Diácido de Potasio,Fosfato Bipotásico 
+
+E340ii
+Fosfato Dipotásico
+Sospechoso
+XXXXXXXXX
+Fosfato Triácido de Potasio 
+
+E340iii
+Fosfato Tripotásico
+Sospechoso
+XXXXXXXXX
+Ortofosfatos de Calcio,Sales Cálcicas del Ácido Fosfórico 
+
+E341
+Fosfatos Cálcicos
+Sospechoso
+XXXXXXXXX
+Fosfato Monoácido de Calcio 
+
+E341i
+Fosfato Monocálcico
+Sospechoso
+XXXXXXXXX
+Fosfato Diácido de Calcio,Fosfato Bicálcico,Fosfato Cálcico Dibásico Anhidro 
+
+E341ii
+Fosfato Dicálcico
+Sospechoso
+XXXXXXXXX
+Fosfato Triácido de Calcio,Sales Cálcicas del Ácido Ortofosfórico 
+
+E341iii
+Fosfato Tricálcico
+Sospechoso
+XXXXXXXXX
+Ortofosfatos de Amonio,Sales Amónicas del Ácido Fosfórico 
+
+E342
+Fosfatos Amónicos
+Sospechoso
+XXXXXXXXX
+Fosfato Monoácido de Amonio 
+
+E342i
+Fosfato Monoamónico
+Sospechoso
+XXXXXXXXX
+Fosfato Diácido de Amonio,Fosfato Biamónico,Hidrógeno Fosfato Diamónico 
+
+E342ii
+Fosfato Diamónico
+Sospechoso
+XXXXXXXXX
+Fosfato Triácido de Amonio 
+
+E342iii
+Fosfato Triamónico
+Sospechoso
+XXXXXXXXX
+Ortofosfatos de Magnesio,Sales Magnésicas del Ácido Fosfórico 
+
+E343
+Fosfatos Magnésicos
+Sospechoso
+XXXXXXXXX
+Fosfato Monoácido de Magnesio 
+
+E343i
+Fosfato Monomagnésico
+Sospechoso
+XXXXXXXXX
+Fosfato Diácido de Magnesio,Fosfato Bimagnésico,Hidrógeno Fosfato de Magnesio 
+
+E343ii
+Fosfato Dimagnésico
+Sospechoso
+XXXXXXXXX
+Fosfato Triácido de Magnesio 
+
+E343iii
+Fosfato Trimagnésico
+Sospechoso
+XXXXXXXXX
+Citrato de Lecitina 
+
+E344
+Citrato Lecitínico
+En revisión
+XXXXXXXXX
+Citrato de Magnesio 
+
+E345
+Citrato Magnésico
+En revisión
+XXXXXXXXX
+Malatos de Amonio 
+
+E349
+Malatos Amónicos
+Seguro
+XXXXXXXXX
+Malato Amónico 
+
+E349i
+Malato de Amonio
+Seguro
+XXXXXXXXX
+Bimalato Amónico 
+
+E349ii
+Malato Ácido de Amonio
+Seguro
+XXXXXXXXX
+Malatos de Sodio 
+
+E350
+Malatos Sódicos
+Seguro
+XXXXXXXXX
+Malato Sódico,Hidrógeno Malato de Sodio 
+
+E350i
+Malato de Sodio
+Seguro
+XXXXXXXXX
+Bimalato Sódico,DL-Malato de Sodio 
+
+E350ii
+Malato Ácido de Sodio
+Seguro
+XXXXXXXXX
+Malatos de Potasio 
+
+E351
+Malatos Potásicos
+Seguro
+XXXXXXXXX
+Malato Potásico,Hidrógeno Malato de Calcio 
+
+E351i
+Malato de Potasio
+Seguro
+XXXXXXXXX
+Bimalato Potásico 
+
+E351ii
+Malato Ácido de Potasio
+Seguro
+XXXXXXXXX
+Malatos de Calcio 
+
+E352
+Malatos Cálcicos
+Seguro
+XXXXXXXXX
+Malato Cálcico 
+
+E352i
+Malato de Calcio
+Seguro
+XXXXXXXXX
+Bimalato Cálcico,DL-Malato de Calcio 
+
+E352ii
+Malato Ácido de Calcio
+Seguro
+XXXXXXXXX
+Ácido Metatártaro,Metatartaric Acid 
+
+E353
+Ácido Metatartárico
+Seguro
+XXXXXXXXX
+L-Tartrato,L-Tartrata 
+
+E354
+Tartratos Cálcicos
+Seguro
+XXXXXXXXX
+Tartrato Monoácido de Calcio 
+
+E354i
+Tartrato Monocálcico
+En revisión
+XXXXXXXXX
+Tartrato Diácido de Calcio,Bitartrato Cálcico 
+
+E354ii
+Tartrato Dicálcico
+En revisión
+XXXXXXXXX
+Ácido Hexanodioico 
+
+E355
+Ácido Adípico
+Seguro
+XXXXXXXXX
+Adipato de Sodio 
+
+E356
+Adipato Sódico
+Seguro
+XXXXXXXXX
+Adipato de Potasio 
+
+E357
+Adipato Potásico
+Seguro
+XXXXXXXXX
+Adipato de Calcio 
+
+E358
+Adipato Cálcico
+En revisión
+XXXXXXXXX
+Adipato de Amonio 
+
+E359
+Adipato Amónico
+En revisión
+XXXXXXXXX
+Adipato de Magnesio 
+
+E360
+Adipato Magnésico
+En revisión
+XXXXXXXXX
+Ácido Butanodioico,Ácido Dicarboxílico,Espíritu de Ambar 
+
+E363
+Ácido Succínico
+Seguro
+XXXXXXXXX
+Succinato de Sodio,Sal Disódica del Ácido Succínico,Sal Sódica del Ácido Butanodioico,Di-Sodio Succinato,Succinato Sódico Anhidro 
+
+E364
+Succinatos Sódicos
+En revisión
+XXXXXXXXX
+En revisión 
+
+E364i
+Succinato Monosódico
+En revisión
+XXXXXXXXX
+En revisión 
+
+E364ii
+Succinato Disódico
+En revisión
+XXXXXXXXX
+Fumarato de Sodio 
+
+E365
+Fumarato Sódico
+Seguro
+XXXXXXXXX
+Fumarato de Potasio 
+
+E366
+Fumarato Potásico
+Seguro
+XXXXXXXXX
+Fumarato de Calcio 
+
+E367
+Fumarato Cálcico
+Seguro
+XXXXXXXXX
+Fumarato de Amonio 
+
+E368
+Fumarato Amónico
+Seguro
+XXXXXXXXX
+Fumarato de Magnesio 
+
+E369
+Fumarato Magnésico
+Seguro
+XXXXXXXXX
+1,4-Heptonolactona,Heptonolactone 
+
+E370
+Heptonolactona
+Peligroso
+XXXXXXXXX
+Niacina (el nombre proviene de las palabras nicotina + ácido + vitamina),Niacinamida,Nicotinamida 
+
+E375
+Ácido Nicotínico
+Sospechoso
+XXXXXXXXX
+Citrato de Triamonio 
+
+E380
+Citrato Triamónico
+Seguro
+XXXXXXXXX
+Citrato Férrico de Amonio,Citrato de Amonio y Hierro 
+
+E381
+Citrato Amónico-Férrico
+Seguro
+XXXXXXXXX
+Glicerofosfato de Calcio 
+
+E383
+Glicerofosfato Cálcico
+En revisión
+XXXXXXXXX
+Citrato de Isopropilo 
+
+E384
+Citrato Isopropílico
+En revisión
+XXXXXXXXX
+Ácido Etilendiaminotetraacético,Etilendiamino-Tetracetato de Calcio y Disodio,Etilendiaminotetracetato de Calcio Disódico,EDTA de Disodio y Calcio,EDTA Disódico Cálcico,EDTAC,ETDA,HEDTA,DTPA,TTHA,CaNa2EDTA 
+
+E385
+Etileno Diamina Tetra Acetato (EDTA)
+Peligroso
+XXXXXXXXX
+Ácido Etilendiaminotetraacético,EADT 
+
+E386
+Ácido Etileno Diamino Tetraacético (AEDT)
+Peligroso
+XXXXXXXXX
+Oxitriestearato de Glicerol 
+
+E387
+Oxiestearina
+En revisión
+XXXXXXXXX
+ATDP 
+
+E388
+Ácido Tiodipropiónico (TDPA)
+En revisión
+XXXXXXXXX
+Dilauril Tiodipropionato,Dilauriltiodipropionato,Tiodipropanoato 
+
+E389
+Tiodipropionato de Dilaurilo
+En revisión
+XXXXXXXXX
+Distearil Tiodipropionato,Disteariltiodipropionato,Tiodipropanoato 
+
+E390
+Tiodipropionato de Distearilo
+En revisión
+XXXXXXXXX
+Myoinositol Hexakisfosfato,Mio-Inositol Hexakifosfato,IP6,Fitato 
+
+E391
+Ácido Fítico
+En revisión
+XXXXXXXXX
+Extracto de Hoja de Romero 
+
+E392
+Extractos de Romero
+Seguro
+XXXXXXXXX
+En revisión 
+
+E392i
+Extracto de Romero con Acetona
+En revisión
+XXXXXXXXX
+En revisión 
+
+E392ii
+Extracto de Romero con Dióxido de Carbono Supercrítico
+En revisión
+XXXXXXXXX
+En revisión 
+
+E392iii
+Extracto de Romero con Etanol
+En revisión
+XXXXXXXXX
+En revisión 
+
+E392iv
+Extracto de Romero con Hexano y Etanol
+En revisión
+XXXXXXXXX
+Lactobionato de Calcio 
+
+E399
+Lactobionato Cálcico
+En revisión
+XXXXXXXXX
+Algín,Alginic Acid 
+
+E400
+Ácido Algínico
+Seguro
+XXXXXXXXX
+Alginato de Sodio 
+
+E401
+Alginato Sódico
+Seguro
+XXXXXXXXX
+Alginato de Potasio 
+
+E402
+Alginato Potásico
+Seguro
+XXXXXXXXX
+Alginato de Amonio 
+
+E403
+Alginato Amónico
+Seguro
+XXXXXXXXX
+Alginato de Calcio 
+
+E404
+Alginato Cálcico
+Seguro
+XXXXXXXXX
+Alginato de Propilenglicol,APG,Alginato de Propano-1,2-Diol,Hidroxipropil Alginato,Propylene Glycol Alginate,PGA 
+
+E405
+Alginato Propilenglicólico
+Seguro
+XXXXXXXXX
+Gelosa,Agar del Japón,Agar de China,Ictiocola de Bengala,Ictiocola de Ceilán,Layor Carang 
+
+E406
+Agar-Agar
+Seguro
+XXXXXXXXX
+Carragenina Refinada,Carrageno Refinado,Gelosa de Musgo de Irlanda,Carrageenan,Eucheuman,Iridophycan,Hypnean,Furcelaran,Agar Danés 
+
+E407
+Carragenanos
+Peligroso
+XXXXXXXXX
+Carragenina Semirrefinada,Algas Guso,PES (Processed Eucheuma Seaweed),PNG-Carragenina,Algas Marinas Transformadas del Género Eucheuma,Alga Euchema Transformada,Alga Euchema Elaborada 
+
+E407a
+Algas Euchema Transformadas
+Peligroso
+XXXXXXXXX
+Polisacárido de Levadura de Panadero,Bakery Yeast Glycan 
+
+E408
+Glicano de Levadura Panaria
+En revisión
+XXXXXXXXX
+Arabino Galactano,Arabinogalactana,Arabino Galactana 
+
+E409
+Arabinogalactano
+En revisión
+XXXXXXXXX
+Goma de Semillas de Algarrobo,Harina de Algarrobo,Harina de Granos de Algarroba,Goma de Judía,Goma de Ceratonia Siliqua,Galactomanano 
+
+E410
+Goma Garrofín
+Seguro
+XXXXXXXXX
+Goma de Avena Sativa,Resina de Aveneae 
+
+E411
+Goma de Avena
+En revisión
+XXXXXXXXX
+Goma Cyamopsis,Harina de Jaguar,Galactomanano 
+
+E412
+Goma Guar
+Seguro
+XXXXXXXXX
+Goma Aldragante,Goma Shiraz,Goma de Dragón 
+
+E413
+Goma Tragacanto
+Seguro
+XXXXXXXXX
+Goma Árabe,Goma de Acacia,Goma de Robinia,Gum Arabic 
+
+E414
+Goma Arábiga
+Sospechoso
+XXXXXXXXX
+Goma Xantán,Goma Xantano,Goma Xántica,Goma de Maíz 
+
+E415
+Goma Xantana
+Sospechoso
+XXXXXXXXX
+Goma India,Goma Esterculia 
+
+E416
+Goma Karaya
+Seguro
+XXXXXXXXX
+Goma del Perú,Goma Huarango 
+
+E417
+Goma Tara
+Seguro
+XXXXXXXXX
+Goma de Gelano,Goma Gelante 
+
+E418
+Goma Gellan
+Seguro
+XXXXXXXXX
+Goma de la India 
+
+E419
+Goma Ghatti
+En revisión
+XXXXXXXXX
+Glucitol,D-Sorbitol 
+
+E420
+Sorbitoles
+Sospechoso
+XXXXXXXXX
+Glucitol,D-Sorbitol 
+
+E420i
+Sorbitol
+Sospechoso
+XXXXXXXXX
+Jarabe de Glucitol,Jarabe de D-Sorbitol 
+
+E420ii
+Jarabe de Sorbitol
+Sospechoso
+XXXXXXXXX
+Azúcar de Maná,Extracto de Savia de Maná 
+
+E421
+Manitoles
+Sospechoso
+XXXXXXXXX
+En revisión 
+
+E421i
+Manitol
+En revisión
+XXXXXXXXX
+En revisión 
+
+E421ii
+Manitol Fermentado
+En revisión
+XXXXXXXXX
+Endulzante Glicerina,Dulcificante Glicerol,Propanotriol,Trihidroxipropa 
+
+E422
+Glicerol
+Seguro
+XXXXXXXXX
+Ácido Octenilsuccínico,Goma de Acacia Modificada 
+
+E423
+Ácido Octenil-Succínico (OSA)
+En revisión
+XXXXXXXXX
+β-1,3-Glucano 
+
+E424
+Curdlan
+En revisión
+XXXXXXXXX
+Glucomanano,Lengua del Diablo,Lirio Vudú,Palma de Serpiente,Ñame Elefante 
+
+E425
+Konjac
+Seguro
+XXXXXXXXX
+Glucomanano,Lengua del Diablo,Lirio Vudú,Palma de Serpiente,Ñame Elefante 
+
+E425i
+Goma de Konjac
+Seguro
+XXXXXXXXX
+Glucomanán,Lengua del Diablo,Lirio Vudú,Palma de Serpiente,Ñame Elefante 
+
+E425ii
+Glucomanano de Konjac
+Seguro
+XXXXXXXXX
+Celulosa de Soja 
+
+E426
+Hemicelulosa de Soja
+Seguro
+XXXXXXXXX
+Goma de Cassia,Cassia Gum 
+
+E427
+Goma Casia
+Sospechoso
+XXXXXXXXX
+Gelatina Alimentaria,Gelatina Porcina,Grenetina Comestible 
+
+E428
+Gelatina Neutra
+Sospechoso
+XXXXXXXXX
+Peptones,Peptons,Tryptones 
+
+E429
+Peptonas
+En revisión
+XXXXXXXXX
+Peptones,Peptons,Tryptones 
+
+E429i
+Peptona Pépsica
+En revisión
+XXXXXXXXX
+Peptones,Peptons,Tryptones 
+
+E429ii
+Peptona Pancreática
+En revisión
+XXXXXXXXX
+Estearato de Oxietileno,Poliestearato de Óxido Etileno 
+
+E430
+Estearato de Polioxietileno 8
+Peligroso
+XXXXXXXXX
+Estearato de Oxietileno,Poliestearato de Óxido Etileno 
+
+E431
+Estearato de Polioxietileno 40
+Peligroso
+XXXXXXXXX
+Monolaurato de Sorbitano Polioxietinelado,Laurato de Polioxietilensorbitano,Tween 20 
+
+E432
+Monolaurato de Sorbitán Polioxietinelado (Polisorbato 20)
+Peligroso
+XXXXXXXXX
+Monooleato de Sorbitano Polioxietinelado,Oleato de Polioxietilensorbitano,Tween 80 
+
+E433
+Monooleato de Sorbitán Polioxietinelado (Polisorbato 80)
+Peligroso
+XXXXXXXXX
+Monopalmitato de Sorbitano Polioxietinelado,Palmitato de Polioxietilensorbitano,Tween 40 
+
+E434
+Monopalmitato de Sorbitán Polioxietinelado (Polisorbato 40)
+Peligroso
+XXXXXXXXX
+Monoestearato de Sorbitano Polioxietinelado,Estearato de Polioxietilensorbitano,Tween 60 
+
+E435
+Monoestearato de Sorbitán Polioxietinelado (Polisorbato 60)
+Peligroso
+XXXXXXXXX
+Triestearato de Sorbitano Polioxietinelado,Estearato de Polioxietilensorbitano,Tween 65 
+
+E436
+Triestearato de Sorbitán Polioxietinelado (Polisorbato 65)
+Peligroso
+XXXXXXXXX
+Polisacáridos Pécticos,Pectins 
+
+E440
+Pectinas
+Seguro
+XXXXXXXXX
+Polisacárido Péctico,Pectina Cítrica,Pectin 
+
+E440i
+Pectina
+Seguro
+XXXXXXXXX
+Polisacárido Péctico Amidado,Amidated Pectin 
+
+E440ii
+Pectina Amidada
+Seguro
+XXXXXXXXX
+Aceite Glicerinado Hidrogenado 
+
+E441
+Aceite de Semilla de Colza Superglicerinado Hidrogenado
+En revisión
+XXXXXXXXX
+Fosfátidos de Amonio,Fosfátido Amónico,Sales Amónicas del Ácido Fosfatídico,Lecitina YN 
+
+E442
+Fosfátidos Amónicos
+Sospechoso
+XXXXXXXXX
+Ácidos Grasos Bromados,Brominated Vegetable Oil,AGB,AVB,BVO 
+
+E443
+Aceite Vegetal Bromado
+Peligroso
+XXXXXXXXX
+Acetato de Isobutirato de Sacarosa,Acetato Isobutirato de Sucrosa,AIBS,SAIB 
+
+E444
+Acetato Isobutírico de Sacarosa
+Sospechoso
+XXXXXXXXX
+Ésteres de Glicerina,Éster de Glicerol 
+
+E445
+Ésteres Glicéridos de Colofonia
+Seguro
+XXXXXXXXX
+Goma Éster,Ésteres de Glicerina,Ésteres de Glicerol,Abietato de Glicerilo 
+
+E445i
+Ésteres Glicéridos de Colofonia de Goma
+Seguro
+XXXXXXXXX
+Ésteres de Glicerina,Ésteres de Glicerol 
+
+E445ii
+Ésteres Glicéridos de Colofonia de Aceite de Resina
+Seguro
+XXXXXXXXX
+Ésteres de Glicerina,Ésteres de Glicerol 
+
+E445iii
+Ésteres Glicéridos de Colofonia de Madera
+Seguro
+XXXXXXXXX
+Succistearin 
+
+E446
+Succistearina
+En revisión
+XXXXXXXXX
+Bifosfatos 
+
+E450
+Difosfatos
+Sospechoso
+XXXXXXXXX
+Bifosfato Disódico,Difosfato de Disodio 
+
+E450i
+Difosfato Disódico
+Sospechoso
+XXXXXXXXX
+Bifosfato Trisódico,Difosfato de Trisodio 
+
+E450ii
+Difosfato Trisódico
+Sospechoso
+XXXXXXXXX
+Bifosfato Tetrasódico,Difosfato de Tetrasodio 
+
+E450iii
+Difosfato Tetrasódico
+Sospechoso
+XXXXXXXXX
+Fosfato Dipotásico,Bifosfato Dipotásico 
+
+E450iv
+Difosfato Dipotásico
+Sospechoso
+XXXXXXXXX
+Bifosfato Tetrapotásico,Difosfato de Tetrapotasio 
+
+E450v
+Difosfato Tetrapotásico
+Sospechoso
+XXXXXXXXX
+Bifosfato Dicálcico,Difosfato de Dicalcio 
+
+E450vi
+Difosfato Dicálcico
+Sospechoso
+XXXXXXXXX
+Difosfato Ácido Cálcico,Difosfato Diácido de Calcio,Bifosfato Bicálcico,Difosfato de Bicalcio 
+
+E450vii
+Difosfato Cálcico de Dihidrógeno
+Sospechoso
+XXXXXXXXX
+Bifosfato Dimagnésico,Difosfato de Dimagnesio 
+
+E450viii
+Difosfato Dimagnésico
+Sospechoso
+XXXXXXXXX
+Bifosfato Magnésico de Dihidrógeno,Difosfato de Bihidrógeno 
+
+E450ix
+Difosfato Magnésico de Dihidrógeno
+Sospechoso
+XXXXXXXXX
+Fosfatos 
+
+E451
+Trifosfatos
+Sospechoso
+XXXXXXXXX
+Fosfato de Pentasodio,Tripolifosfato de Sodio 
+
+E451i
+Trifosfato Pentasódico
+Sospechoso
+XXXXXXXXX
+Fosfato Pentapotasio,Tripolifosfato de Potasio 
+
+E451ii
+Trifosfato Pentapotásico
+Sospechoso
+XXXXXXXXX
+Tripolifosfato Doble de Sodio y Potasio 
+
+E451iii
+Trifosfato Sódico-Potásico
+Sospechoso
+XXXXXXXXX
+Tetrafosfatos,Metafosfatos,Hexametafosfatos 
+
+E452
+Polifosfatos
+Sospechoso
+XXXXXXXXX
+Tetrafosfato Sódico,Metafosfato Sódico,Hexametafosfato de Sodio,Calgón,SHMP,HMFS 
+
+E452i
+Polifosfato Sódico
+Sospechoso
+XXXXXXXXX
+Tetrafosfato Potásico,Metafosfato Potásico,Hexametafosfato de Potasio,PHMP,HMFP 
+
+E452ii
+Polifosfato Potásico
+Sospechoso
+XXXXXXXXX
+Tetrafosfato Doble Sódico-Cálcico,Metafosfato de Sodio y Calcio,Hexametafosfato Sódico-Cálcico 
+
+E452iii
+Polifosfato Sódico-Cálcico
+Sospechoso
+XXXXXXXXX
+Tetrafosfato Cálcico,Metafosfato Cálcico,Hexametafosfato de Calcio,CHMP,HMFC 
+
+E452iv
+Polifosfato Cálcico
+Sospechoso
+XXXXXXXXX
+Tetrafosfato Amónico,Metafosfato Amónico,Hexametafosfato de Amonio,AHMP,HMFA 
+
+E452v
+Polifosfato Amónico
+Sospechoso
+XXXXXXXXX
+En revisión 
+
+E452vi
+Hexametafosfato Sódico-Potásico
+En revisión
+XXXXXXXXX
+Ortofosfato de Hierro,Ortofosfato Férrico 
+
+E453
+Ortofosfato Ferroso
+En revisión
+XXXXXXXXX
+Pirofosfato de Hierro,Pirofosfato Férrico 
+
+E454
+Pirofosfato Ferroso
+En revisión
+XXXXXXXXX
+Mannoproteína de Levadura 
+
+E455
+Mannoproteínas de Levadura
+En revisión
+XXXXXXXXX
+Poli Aspartato de Potasio 
+
+E456
+Poliaspartato Potásico
+En revisión
+XXXXXXXXX
+Alfaciclodextrina,Alfadextrina 
+
+E457
+Alfa-Ciclodextrina
+En revisión
+XXXXXXXXX
+Gammaciclodextrina,Gammadextrina 
+
+E458
+Gamma-Ciclodextrina
+En revisión
+XXXXXXXXX
+Betaciclodextrina,Betadextrina 
+
+E459
+Beta-Ciclodextrina
+En revisión
+XXXXXXXXX
+Celluloses 
+
+E460
+Celulosas
+Sospechoso
+XXXXXXXXX
+Gel de Celulosa,Microcrystalline Cellulose 
+
+E460i
+Celulosa Microcristalina
+Sospechoso
+XXXXXXXXX
+Cellulose Powder 
+
+E460ii
+Celulosa En Polvo
+Sospechoso
+XXXXXXXXX
+Metilcelulosa,Celulosa de Metilo 
+
+E461
+Metil-Celulosa
+Sospechoso
+XXXXXXXXX
+Etilcelulosa,Celulosa de Etilo 
+
+E462
+Etil-Celulosa
+Sospechoso
+XXXXXXXXX
+Hidroxipropilcelulosa,Celulosa de Hidroxipropilo,Hidroxipropil Metilcelulosa 
+
+E463
+Hidroxipropil-Celulosa
+Sospechoso
+XXXXXXXXX
+Hidroxipropilmetilcelulosa,Celulosa de Hidroxipropilmetilo,Hipromelosa,HPMC 
+
+E464
+Hidroxipropilmetil-Celulosa
+Sospechoso
+XXXXXXXXX
+Metiletilcelulosa,Etilmetilcelulosa,Celulosa de Metiletilo,MEC,EMC 
+
+E465
+Metiletil-Celulosa
+Sospechoso
+XXXXXXXXX
+Carboximetilcelulosa,Celulosa Sódica de Carboximetilo,Goma de Celulosa,Carmelosa,Carmelossa,Croscarmelosa,CMC 
+
+E466
+Carboximetil-Celulosa Sódica
+Sospechoso
+XXXXXXXXX
+Etilhidroxietilcelulosa,Celulosa de Hidroxietilo 
+
+E467
+Etilhidroxietil-Celulosa
+Sospechoso
+XXXXXXXXX
+Carboximetilcelulosa,Celulosa Sódica de Carboximetilo Reticulado,Goma de Celulosa Entrelazada,Carmelosa,Carmelossa,Croscarmelosa,CMC 
+
+E468
+Carboximetil-Celulosa Sódica
+Entrelazada
+Sospechoso
+XXXXXXXXX
+Carboximetilcelulosa,Celulosa Sódica de Carboximetilo Hidrolizado,Goma de Celulosa Hidrolizada mediante Enzimas,Carmelosa,Carmelossa,Croscarmelosa,CMC 
+
+E469
+Carboximetil-Celulosa Sódica Hidrolizada Enzimáticamente
+Sospechoso
+XXXXXXXXX
+Sales del Ácido Esteárico,Sal de los Ácidos Grasos con base de Aluminio,Amonio,Calcio,Magnesio,Potasio y Sodio 
+
+E470
+Sales de Ácidos Grasos
+Seguro
+XXXXXXXXX
+Sal de Ácido Mirístico,Palmítico y Esteárico con base de Amoníaco,Calcio,Potasio y Sodio 
+
+E470i
+Sales de Ácidos Mirísticos,Palmíticos y Esteáricos
+En revisión
+XXXXXXXXX
+Sal de Ácido Oleico con base de Calcio,Potasio y Sodio 
+
+E470ii
+Sales de Ácidos Oleicos
+En revisión
+XXXXXXXXX
+Sal de Ácido Esteárico con base de Magnesio 
+
+E470iii
+Sales de Ácidos Esteáricos Magnésicos
+En revisión
+XXXXXXXXX
+Sales de Sodio,Potasio y Calcio de los Ácidos Grasos,Sales Sódicas,Potásicas y Cálcicas del Ácido Esteárico,Sales de Estearato Sódico,Sales de Estearato Potásico,Sales de Estearato Cálcico,Sales de Estearato de Sodio,Potasio y Calcio 
+
+E470a
+Estearato de Sodio,Potasio y Calcio
+Seguro
+XXXXXXXXX
+Sales de Magnesio de los Ácidos Grasos,Sales Magnésicas del Ácido Esteárico 
+
+E470b
+Estearato de Magnesio
+Seguro
+XXXXXXXXX
+Mono y Diglicéridos de los Ácidos Grasos,Monodiglicéridos,Mono Estearato Gliceril,Monoestearato de Glicerilo,Monoestearina 
+
+E471
+Monoglicéridos y Diglicéridos de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+Ésteres de los Mono y Diglicéridos de Ácidos Grasos,Éster de los Monoglicéridos y Diglicéridos Grasos,Ésteres de MyD de AG 
+
+E472
+Ésteres de Monoglicéridos y Diglicéridos de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+Ésteres Acéticos de los Mono y Diglicéridos de Ácidos Grasos,Éster Acético de los Monoglicéridos y Diglicéridos Grasos,Acetoglicéridos 
+
+E472a
+Ésteres Acéticos de Monoglicéridos y Diglicéridos de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+Ésteres Lácticos de los Mono y Diglicéridos de Ácidos Grasos,Éster Láctico de los Monoglicéridos y Diglicéridos Grasos,Lactoglicéridos 
+
+E472b
+Ésteres Lácticos de Monoglicéridos y Diglicéridos de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+Ésteres Cítricos de los Mono y Diglicéridos de Ácidos Grasos,Éster Cítrico de los Monoglicéridos y Diglicéridos Grasos,Citroglicéridos 
+
+E472c
+Ésteres Cítricos de Monoglicéridos y Diglicéridos de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+Ésteres Tartáricos de los Mono y Diglicéridos de Ácidos Grasos,Éster Tartárico de los Monoglicéridos y Diglicéridos Grasos 
+
+E472d
+Ésteres Tartáricos de Monoglicéridos y Diglicéridos de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+Ésteres Mono y Diacetiltartárico de los Mono y Diglicéridos de Ácidos Grasos,Éster Acetiltartático de los Monoglicéridos y Diglicéridos Grasos,DATEM 
+
+E472e
+Ésteres Monoacetiltartárico y Diacetiltartárico de Monoglicéridos y Diglicéridos de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+Ésteres Mixtos Acéticos y Tartáricos de los Mono y Diglicéridos de Ácidos Grasos,Éster Acético-Tartárico de los Monoglicéridos y Diglicéridos Grasos 
+
+E472f
+Ésteres Mixtos Acéticos y Tartáricos de Monoglicéridos y Diglicéridos de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+En revisión 
+
+E472g
+Monoglicéridos Succinilados
+En revisión
+XXXXXXXXX
+Ésteres de Sacarosa de los Ácidos Grasos,Ésteres de Ácidos Grasos y Sacarosa,Éster de Azúcar 
+
+E473
+Sucroésteres de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+Ésteres de Sacarosa Tipo I y Tipo II 
+
+E473a
+Oligoésteres de Sacarosa
+En revisión
+XXXXXXXXX
+Glicéridos de Sacarosa de los Ácidos Grasos 
+
+E474
+Sucroglicéridos de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+Ésteres Poliglicéricos de los Ácidos Grasos,Ésteres Glicéridos de Ácidos Grasos 
+
+E475
+Ésteres Poliglicéridos de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+Poliglicerol de Ácido Ricinoleico,Ricinoleato de Glicerol,Ésteres Poliglicéridos de Ácido Ricinoléico Interesterificado 
+
+E476
+Polirricinoleato de Poliglicerol
+Seguro
+XXXXXXXXX
+Propilenglicoles de los Ácidos Grasos,Ésteres de Propano-1,2-Diol de Ácidos Grasos 
+
+E477
+Ésteres de Propilenglicol de Ácidos Grasos
+Sospechoso
+XXXXXXXXX
+Gliceroles y Propilenglicoles de los Ácidos Grasos 
+
+E478
+Ésteres de Glicerol y Propilenglicol de Ácidos Grasos Lactilados
+En revisión
+XXXXXXXXX
+Ácidos Grasos de Soja Oxidada 
+
+E479
+Aceites de Soja Oxidados
+Sospechoso
+XXXXXXXXX
+En revisión 
+
+E479a
+Aceite de Soja Oxidado Térmicamente
+En revisión
+XXXXXXXXX
+Aceite Oxidado de Soja con Procedimiento Térmico Interaccionado con Mono y Diglicéridos de los Ácidos Grasos 
+
+E479b
+Aceite de Soja Oxidado Térmicamente En Interacción con Monoglicéridos y Diglicéridos de Ácidos Grasos (TOSOM)
+En revisión
+XXXXXXXXX
+Dioctil Sulfosuccinato de Sodio,Docusato Sódico,DSS,Aerosol OT,AOT 
+
+E480
+Dioctil Sulfosuccinato Sódico
+Sospechoso
+XXXXXXXXX
+Lactilatos de Sodio 
+
+E481
+Lactilatos Sódicos
+Seguro
+XXXXXXXXX
+Estearoil Lactilato de Sodio,Estearoil-2-Lactilato Sódico,Lactilato de Estearoil Sódico,Sodium Stearoyl Lactylate,Sodium Stearoyl-2-Lactylate,ELS,SSL 
+
+E481i
+Estearoil Lactilato Sódico
+Seguro
+XXXXXXXXX
+Lactilato Oleico de Sodio 
+
+E481ii
+Lactilato Oleico Sódico
+En revisión
+XXXXXXXXX
+Lactilatos de Calcio 
+
+E482
+Lactilatos Cálcicos
+Seguro
+XXXXXXXXX
+Estearoil Lactilato de Calcio,Estearoil-2-Lactilato Cálcico 
+
+E482i
+Estearoil Lactilato Cálcico
+En revisión
+XXXXXXXXX
+Lactilato Oleico de Calcio 
+
+E482ii
+Lactilato Oleico Cálcico
+En revisión
+XXXXXXXXX
+Tartrato de Estearilo,Tartrato de Esteaorilo,Tartrato Esteárico 
+
+E483
+Tartrato
+Estearílico
+Seguro
+XXXXXXXXX
+Citrato de Estearilo 
+
+E484
+Citrato
+Estearílico
+En revisión
+XXXXXXXXX
+Estearoil Fumarato de Sodio,Estearoil-2-Fumarato Sódico 
+
+E485
+Estearoil Fumarato Sódico
+En revisión
+XXXXXXXXX
+Estearoil Fumarato de Calcio,Estearoil-2-Fumarato Cálcico 
+
+E486
+Estearoil Fumarato Cálcico
+En revisión
+XXXXXXXXX
+Lauril-Sulfato de Sodio,Sulfato de Laurilo y Sodio,LSS 
+
+E487
+Lauril-Sulfato Sódico
+En revisión
+XXXXXXXXX
+Glicéridos Etoxilados,Mono y Diglicérido Etoxilado,Mono- y Di- Glicéridos Etoxilados 
+
+E488
+Monoglicéridos y Diglicéridos Etoxilados
+En revisión
+XXXXXXXXX
+Éster Metil-Glucósido de Grasa de Cocos,Ésteres de Metilglucósidos 
+
+E489
+Éster Metilglucósido del Aceite de Coco
+En revisión
+XXXXXXXXX
+Monoestearato de Sorbitán 
+
+E491
+Monoestearato de Sorbitano
+Peligroso
+XXXXXXXXX
+Triestearato de Sorbitán 
+
+E492
+Triestearato de Sorbitano
+Peligroso
+XXXXXXXXX
+Monolaurato de Sorbitán 
+
+E493
+Monolaurato de Sorbitano
+Peligroso
+XXXXXXXXX
+Monooleato de Sorbitán 
+
+E494
+Monooleato de Sorbitano
+Peligroso
+XXXXXXXXX
+Monopalmitato de Sorbitán 
+
+E495
+Monopalmitato de Sorbitano
+Peligroso
+XXXXXXXXX
+Trioleato de Sorbitán 
+
+E496
+Trioleato de Sorbitano
+Peligroso
+XXXXXXXXX
+Esteroles Vegetales 
+
+E499
+Fitoesteroles Ricos En Estigmasterol
+Seguro
+XXXXXXXXX
+Barrilla,Natrón,Sosa Solvay,Sosa Ash,Ceniza de Soda
+
+E500
+Carbonatos Sódicos
+Seguro
+XXXXXXXXX
+Carbonato de Sodio 
+
+E500i
+Carbonato Sódico
+Seguro
+XXXXXXXXX
+Bicarbonato de Sodio,Carbonato Ácido de Sodio,Bicarbonato de Hidrógeno Sódico,Hidrogenocarbonato de Sodio,Hidrógeno de Sodio Carbonatado 
+
+E500ii
+Bicarbonato Sódico
+Seguro
+XXXXXXXXX
+Sesquicarbonato de Sodio 
+
+E500iii
+Sesquicarbonato Sódico
+En revisión
+XXXXXXXXX
+Carbonatos de Potasio 
+
+E501
+Carbonatos Potásicos
+Seguro
+XXXXXXXXX
+Carbonato de Potasio 
+
+E501i
+Carbonato Potásico
+Seguro
+XXXXXXXXX
+Bicarbonato de Potasio,Carbonato Ácido de Potasio,Bicarbonato de Hidrógeno Potásico,Hidrogenocarbonato de Potasio,Hidrógeno de Potasio Carbonatado 
+
+E501ii
+Bicarbonato Potásico
+Seguro
+XXXXXXXXX
+Carbonatos de Amonio 
+
+E503
+Carbonatos Amónicos
+Seguro
+XXXXXXXXX
+Carbonato de Amonio 
+
+E503i
+Carbonato Amónico
+Seguro
+XXXXXXXXX
+Bicarbonato de Amonio,Carbonato Ácido de Amonio,Bicarbonato de Hidrógeno Amónico,Hidrogenocarbonato de Amonio,Hidrógeno de Amonio Carbonatado 
+
+E503ii
+Bicarbonato Amónico
+Seguro
+XXXXXXXXX
+Carbonatos de Magnesio 
+
+E504
+Carbonatos Magnésicos
+Seguro
+XXXXXXXXX
+Carbonato de Magnesio 
+
+E504i
+Carbonato Magnésico
+Seguro
+XXXXXXXXX
+Bicarbonato de Magnesio,Carbonato Ácido de Magnesio,Bicarbonato de Hidrógeno Magnésico,Hidrogenocarbonato de Magnesio,Hidrógeno de Magnesio Carbonatado 
+
+E504ii
+Bicarbonato Magnésico
+Seguro
+XXXXXXXXX
+Carbonato de Hierro,Carbonato Férrico,Carbonato Ferroso Monohidrato 
+
+E505
+Carbonato Ferroso
+En revisión
+XXXXXXXXX
+Ácido Hidroclórico,Ácido Muriático,Ácido de Sal,Ácido Marino,Agua Fuerte,Salfumán,Espíritu de Sal 
+
+E507
+Ácido Clorhídrico
+Peligroso
+XXXXXXXXX
+Cloruro de Potasio 
+
+E508
+Cloruro Potásico
+Peligroso
+XXXXXXXXX
+Cloruro de Calcio 
+
+E509
+Cloruro Cálcico
+Peligroso
+XXXXXXXXX
+Cloruro de Amonio 
+
+E510
+Cloruro Amónico
+Peligroso
+XXXXXXXXX
+Cloruro de Magnesio,Nigari,Lushui 
+
+E511
+Cloruro Magnésico
+Seguro
+XXXXXXXXX
+Cloruro de Estaño,Cloruro Estánico 
+
+E512
+Cloruro Estañoso
+Peligroso
+XXXXXXXXX
+Sulfato de Dihidrógeno,Aceite de Vitriolo,Espíritu de Vitriolo 
+
+E513
+Ácido Sulfúrico
+Peligroso
+XXXXXXXXX
+Sulfatos de Sodio 
+
+E514
+Sulfatos Sódicos
+Sospechoso
+XXXXXXXXX
+Sulfato de Sodio 
+
+E514i
+Sulfato Sódico
+Sospechoso
+XXXXXXXXX
+Bisulfato de Sodio,Hidrogensulfato Sódico 
+
+E514ii
+Bisulfato Sódico
+Sospechoso
+XXXXXXXXX
+Sulfatos de Potasio 
+
+E515
+Sulfatos Potásicos
+Sospechoso
+XXXXXXXXX
+Sulfato de Potasio 
+
+E515i
+Sulfato Potásico
+Sospechoso
+XXXXXXXXX
+Bisulfato de Potasio,Sulfato Ácido de Potasio,Hidrogensulfato Potásico 
+
+E515ii
+Bisulfato Potásico
+Sospechoso
+XXXXXXXXX
+Yeso de París,Yeso Natural,Sulfato de Calcio Dihidratado 
+
+E516
+Sulfatos Cálcicos
+Sospechoso
+XXXXXXXXX
+Sulfato de Calcio 
+
+E516i
+Sulfato Cálcico
+Sospechoso
+XXXXXXXXX
+Bisulfato de Calcio,Sulfato Ácido de Calcio,Hidrogensulfato Cálcico 
+
+E516ii
+Bisulfato Cálcico
+Sospechoso
+XXXXXXXXX
+Sulfatos de Amonio 
+
+E517
+Sulfatos Amónicos
+Sospechoso
+XXXXXXXXX
+Sulfato de Amonio 
+
+E517i
+Sulfato Amónico
+Sospechoso
+XXXXXXXXX
+Bisulfato de Amonio,Sulfato Ácido de Amonio,Hidrogensulfato Amónico 
+
+E517ii
+Bisulfato Amónico
+Sospechoso
+XXXXXXXXX
+Sal de Epsom,Sal Inglesa 
+
+E518
+Sulfatos Magnésicos
+Sospechoso
+XXXXXXXXX
+Sulfato de Magnesio 
+
+E518i
+Sulfato Magnésico
+Sospechoso
+XXXXXXXXX
+Bisulfato de Magnesio,Sulfato Ácido de Magnesio,Hidrogensulfato Magnésico 
+
+E518ii
+Bisulfato Magnésico
+Sospechoso
+XXXXXXXXX
+Sulfatos de Cobre 
+
+E519
+Sulfatos Cúpricos
+Peligroso
+XXXXXXXXX
+Sulfato de Cobre 
+
+E519i
+Sulfato Cúprico
+Peligroso
+XXXXXXXXX
+Bisulfato de Cobre,Sulfato Ácido de Cobre,Hidrogensulfato Cúprico 
+
+E519ii
+Bisulfato Cúprico
+Peligroso
+XXXXXXXXX
+Sulfato de Aluminio 
+
+E520
+Sulfato Alumínico
+Peligroso
+XXXXXXXXX
+Sulfato de Aluminio y Sodio 
+
+E521
+Sulfato Alumínico-Sódico
+Peligroso
+XXXXXXXXX
+Sulfato de Aluminio y Potasio 
+
+E522
+Sulfato Alumínico-Potásico
+Peligroso
+XXXXXXXXX
+Sulfato de Aluminio y Amonio 
+
+E523
+Sulfato Alumínico-Amónico
+Peligroso
+XXXXXXXXX
+Hidróxido de Sodio,Soda Caústica,Sosa Caústica,Lejía Alimentaria 
+
+E524
+Hidróxido Sódico
+Sospechoso
+XXXXXXXXX
+Hidróxido de Potasio,Potasa Caústica 
+
+E525
+Hidróxido Potásico
+Sospechoso
+XXXXXXXXX
+Hidróxido de Calcio,Cal Muerta,Cal Hidratada 
+
+E526
+Hidróxido Cálcico
+Sospechoso
+XXXXXXXXX
+Hidróxido de Amonio,Amoniaco Acuoso,Agua de Amoniaco,Amoniaco Común,Licor Amoniacal 
+
+E527
+Hidróxido Amónico
+Peligroso
+XXXXXXXXX
+Hidróxido de Magnesio,Leche Magnésica,Crema de Magnesio 
+
+E528
+Hidróxido Magnésico
+Sospechoso
+XXXXXXXXX
+Óxido de Calcio,Cal Viva 
+
+E529
+Óxido Cálcico
+Sospechoso
+XXXXXXXXX
+Óxido de Magnesio,Periclasa,Magnesia 
+
+E530
+Óxido Magnésico
+Sospechoso
+XXXXXXXXX
+Tartrato de Hierro,Tartrato Férrico 
+
+E534
+Tartrato Ferroso
+En revisión
+XXXXXXXXX
+Ferrocianuro de Sodio,Sodio Trihidratado 
+
+E535
+Ferrocianuro Sódico
+Sospechoso
+XXXXXXXXX
+Ferrocianuro de Potasio,Potasio Trihidratado 
+
+E536
+Ferrocianuro Potásico
+Sospechoso
+XXXXXXXXX
+Hexacianomanganato de Hierro,Hexacianomanganato Ferroso 
+
+E537
+Hexacianomanganato Férrico
+En revisión
+XXXXXXXXX
+Ferrocianuro de Calcio,Calcio Trihidratado 
+
+E538
+Ferrocianuro Cálcico
+Sospechoso
+XXXXXXXXX
+Tiosulfato de Sodio 
+
+E539
+Tiosulfato Sódico
+En revisión
+XXXXXXXXX
+Bifosfato Cálcico,Fosfato Ácido de Calcio 
+
+E540
+Fosfato Ácido Cálcico
+Sospechoso
+XXXXXXXXX
+Fosfatos de Aluminio y Sodio,Fosfato Doble Sódico-Alumínico,Salpas,SALP 
+
+E541
+Fosfatos Alumínicos-Sódicos
+Peligroso
+XXXXXXXXX
+Fosfato Ácido de Aluminio y Sodio,Bifosfato Sódico y Alumínico 
+
+E541i
+Fosfato Ácido Alumínico-Sódico
+Peligroso
+XXXXXXXXX
+Fosfato Básico de Aluminio y Sodio,Fosfato Base Sódico-Alumínico 
+
+E541ii
+Fosfato Básico Alumínico-Sódico
+Peligroso
+XXXXXXXXX
+Fosfato Tribásico de Calcio,Fosfato Tricálcico,Fosfato de Huesos,Harina de Hueso Comestible 
+
+E542
+Fosfato Tribásico Cálcico
+Peligroso
+XXXXXXXXX
+Polifosfatos de Sodio y Calcio,Pirofosfatos Dobles Sódicos-Cálcicos 
+
+E543
+Polifosfatos Sódicos-Cálcicos
+Sospechoso
+XXXXXXXXX
+Polifosfatos de Calcio,Pirofosfatos Cálcicos 
+
+E544
+Polifosfatos Cálcicos
+Sospechoso
+XXXXXXXXX
+Polifosfatos de Amonio,Pirofosfatos Amónicos 
+
+E545
+Polifosfatos Amónicos
+Sospechoso
+XXXXXXXXX
+Polifosfatos de Magnesio,Pirofosfatos Magnésicos 
+
+E546
+Polifosfatos Magnésicos
+Sospechoso
+XXXXXXXXX
+Silicatos de Sodio 
+
+E550
+Silicatos Sódicos
+En revisión
+XXXXXXXXX
+Silicato de Sodio,Silicato Na 
+
+E550i
+Silicato Sódico
+En revisión
+XXXXXXXXX
+Metasilicato Sódico 
+
+E550ii
+Metasilicato Sódico
+En revisión
+XXXXXXXXX
+Sílice,Bióxido Sílico,Óxido de Silicio Amorfo,Sílice Anhídrido Silícico,Sílice Coloidal 
+
+E551
+Dióxido de Silicio
+Peligroso
+XXXXXXXXX
+Silicato de Calcio,Silicato Ca 
+
+E552
+Silicato Cálcico
+Peligroso
+XXXXXXXXX
+Silicatos de Magnesio 
+
+E553
+Silicatos Magnésicos
+Peligroso
+XXXXXXXXX
+Silicato de Magnesio,Silicato Mg 
+
+E553a
+Silicato Magnésico
+Peligroso
+XXXXXXXXX
+Silicato de Magnesio Sintético 
+
+E553a(i)
+Silicato Magnésico Sintético
+En revisión
+XXXXXXXXX
+Trisilicato de Magnesio 
+
+E553a(ii)
+Trisilicato Magnésico
+En revisión
+XXXXXXXXX
+Talco de Magnesio,Silicato de Magnesia,Talcum 
+
+E553b
+Talco Magnésico
+Peligroso
+XXXXXXXXX
+Silicato de Sodio y Aluminio,Silicato Doble Sódico-Alumínico,Silicato Na y Al 
+
+E554
+Silicato Sódico-Alumínico
+Peligroso
+XXXXXXXXX
+Silicato de Potasio y Aluminio,Silicato Doble Potásico-Alumínico,Silicato K y Al 
+
+E555
+Silicato Potásico-Alumínico
+Peligroso
+XXXXXXXXX
+Silicato de Calcio y Aluminio,Silicato Doble Cálcico-Alumínico,Silicato Ca y Al 
+
+E556
+Silicato Cálcico-Alumínico
+Peligroso
+XXXXXXXXX
+Silicato de Zinc,Silicato Zn,Goslarita,Vitriolo de Goslar,Vitriolo Blanco,Caparrosa Blanca 
+
+E557
+Silicato Zíncico
+En revisión
+XXXXXXXXX
+Lodo Bentonítico,Barro Bentonito 
+
+E558
+Bentonita
+Seguro
+XXXXXXXXX
+Silicato de Aluminio,Sílico Aluminato,Silicato Al,Aluminosilicato,Caolín,Caolinita,Kaolina,Arcilla Caolinítica 
+
+E559
+Silicato Alumínico
+Peligroso
+XXXXXXXXX
+Silicato de Potasio,Silicato K 
+
+E560
+Silicato Potásico
+En revisión
+XXXXXXXXX
+Ácidos Grasos,Ácido Octadecanoico,Estearina 
+
+E570
+Ácido Esteárico
+Sospechoso
+XXXXXXXXX
+Ácido D-Glucónico,Ácido Glicogénico,Ácido Dextrónico 
+
+E574
+Ácido Glucónico
+Seguro
+XXXXXXXXX
+Fosfogluconolactona 
+
+E575
+Glucono-Delta-Lactona
+Seguro
+XXXXXXXXX
+Gluconato de Sodio 
+
+E576
+Gluconato Sódico
+Seguro
+XXXXXXXXX
+Gluconato de Potasio 
+
+E577
+Gluconato Potásico
+Seguro
+XXXXXXXXX
+Gluconato de Calcio 
+
+E578
+Gluconato Cálcico
+Seguro
+XXXXXXXXX
+Gluconato de Hierro,Gluconato Férrico 
+
+E579
+Gluconato Ferroso
+Seguro
+XXXXXXXXX
+Lactato de Hierro,Lactato Férrico 
+
+E585
+Lactato Ferroso
+Seguro
+XXXXXXXXX
+4-Hexilresorcinol 
+
+E586
+Hexilresorcinol
+En revisión
+XXXXXXXXX
+Ácido 2-Aminopentanodioico 
+
+E620
+Ácido Glutámico
+Peligroso
+XXXXXXXXX
+Glutamato de Monosodio,Glutamato Sódico,GMS,MSG,Extracto de Levadura Autolizada,Proteína Hidrolizada 
+
+E621
+Glutamato Monosódico
+Peligroso
+XXXXXXXXX
+Glutamato de Monopotasio,Glutamato Potásico,GMP,MPG,Extracto de Levadura,Proteína Hidrolizada 
+
+E622
+Glutamato Monopotásico
+Peligroso
+XXXXXXXXX
+Glutamato de Calcio,Diglutamato Cálcico,GMC,MCG,Extracto de Levadura,Proteína Hidrolizada 
+
+E623
+Glutamato Cálcico
+Peligroso
+XXXXXXXXX
+Glutamato de Amonio,Glutamato de Monoamonio,GMA,MAG,Extracto de Levadura,Proteína Hidrolizada 
+
+E624
+Glutamato Monoamónico
+Peligroso
+XXXXXXXXX
+Glutamato de Magnesio,Diglutamato Magnésico,GMM,MMG,Proteína Hidrolizada o Extracto de Levadura 
+
+E625
+Glutamato Magnésico
+Peligroso
+XXXXXXXXX
+Guanosina Monofosfato,GMP 
+
+E626
+Ácido Guanílico
+Peligroso
+XXXXXXXXX
+Guanilato de Sodio,Guanilato Disódico 
+
+E627
+Guanilato Sódico
+Peligroso
+XXXXXXXXX
+Guanilato de Potasio,Guanilato Dipotásico 
+
+E628
+Guanilato Potásico
+Peligroso
+XXXXXXXXX
+Guanilato de Calcio,Guanilato Dicálcico 
+
+E629
+Guanilato Cálcico
+Peligroso
+XXXXXXXXX
+Inosina Monofosfato,IMP 
+
+E630
+Ácido Inosínico
+Peligroso
+XXXXXXXXX
+Inosinato de Sodio,Inosinato Disódico 
+
+E631
+Inosinato Sódico
+Peligroso
+XXXXXXXXX
+Inosinato de Potasio,Inosinato Dipotásico 
+
+E632
+Inosinato Potásico
+Peligroso
+XXXXXXXXX
+Inosinato de Calcio,Inosinato Dicálcico 
+
+E633
+Inosinato Cálcico
+Peligroso
+XXXXXXXXX
+Ribonucleótido de Calcio,Ribonucleótidos Cálcicos,5'-Ribonucléotido Cálcico 
+
+E634
+Ribonucleótido Cálcico
+Peligroso
+XXXXXXXXX
+Ribonucleótido de Sodio,Ribonucleótido de Disodio,Ribonucleótidos Sódicos,5'-Ribonucléotido Disódico 
+
+E635
+Ribonucleótido Sódico
+Peligroso
+XXXXXXXXX
+3-Hidroxi-2-Metil-4H-Piran-4-Ona 
+
+E636
+Maltol
+Sospechoso
+XXXXXXXXX
+Etil-Maltol,2-Etil-3-Hidroxi-4-Piranone 
+
+E637
+Etilmaltol
+Sospechoso
+XXXXXXXXX
+Aspartato de Sodio,L-Aspartato Sódico 
+
+E638
+Aspartato Sódico
+En revisión
+XXXXXXXXX
+DL-Alanina,Ácido 2-Aminopropanoico 
+
+E639
+Alanina
+En revisión
+XXXXXXXXX
+Glicinas y su Sal de Sodio,Glicocola,Ácido Aminoacético,Ácido 2-Aminoetanoico 
+
+E640
+Glicina y sus Sales Sódicas
+Peligroso
+XXXXXXXXX
+En revisión 
+
+E640i
+Glicina
+En revisión
+XXXXXXXXX
+En revisión 
+
+E640ii
+Glicinato Sódico
+En revisión
+XXXXXXXXX
+Leucine,L-Leucina,L-Leu,Ácido 2-Amino-Isobutil-Acético,Ácido L-2-Amino-4-Metilvalérico,Ácido alfa-aminoisocaproico,Ácido S-2-Amino-4-Metilpentanoico 
+
+E641
+Leucina
+Sospechoso
+XXXXXXXXX
+Hidrocloruro de Lisina,L-Lisina Monohidrocloruro,Hidrocloruro de Lys 
+
+E642
+Cloruro Lisínico
+En revisión
+XXXXXXXXX
+Acetato de Zinc,Diacetato Zincoso,AZ,Zinc Acetate,ZA 
+
+E650
+Acetato Zíncico
+Sospechoso
+XXXXXXXXX
+Dimeticona,Dimetilsilicona,DMSX,Dimethylsiloxane,Aceite de Silicona 
+
+E900
+Dimetilsiloxano,DMS
+Peligroso
+XXXXXXXXX
+Polidimeticona,PDMS,PDMSX,Dimetil-Polisiloxano,Dimetilpolisiloxano,Polydimethylsiloxane,Aceite de Silicona 
+
+E900a
+Polidimetilsiloxano,PDMS
+Peligroso
+XXXXXXXXX
+Polimetil Fenil Siloxano,Polifenil Metilsiloxano,Polidifenil Siloxano,Metil Fenil Polisiloxano,Metilfenilpolisiloxano,Fenil Trimeticona,MFP,PDFS,Polymethylphenilsiloxane,Aceite de Silicona 
+
+E900b
+Polimetilfenilsiloxano,PMFS
+Peligroso
+XXXXXXXXX
+Resina Virgen de Anthophilas 
+
+E901
+Ceras de Abejas
+Seguro
+XXXXXXXXX
+Resina Virgen de Anthophilas Blanqueada 
+
+E901i
+Cera de Abejas Blanca
+Seguro
+XXXXXXXXX
+Resina Virgen de Anthophilas Amarilleada 
+
+E901ii
+Cera de Abejas Amarilla
+Seguro
+XXXXXXXXX
+Cera Candelita,Candelilla Wax 
+
+E902
+Cera Candelilla
+Seguro
+XXXXXXXXX
+Cera Brasileña,Cera de Palma,Carnauba Wax 
+
+E903
+Cera Carnaúba
+Seguro
+XXXXXXXXX
+Goma Shellac,Goma Laca Blanqueada,Resina Laca,Goma de Palo Laca,Shellac Blanqueado 
+
+E904
+Goma Laca
+Sospechoso
+XXXXXXXXX
+Goma Shellac,Goma Laca Blanqueada,Resina Laca,Goma de Palo Laca,Shellac Blanqueado 
+
+E904i
+Goma Laca Blanca
+En revisión
+XXXXXXXXX
+Goma Shellac,Goma Laca Blanqueada,Resina Laca,Goma de Palo Laca,Shellac Blanqueado 
+
+E904ii
+Goma Laca Naranja
+En revisión
+XXXXXXXXX
+Cera de Petróleo,Parafina Sintética,Cera de Microcristales,MOH,Aceites Minerales Hidrocarburos Saturados,Mineral Oils Saturated Hydrocarbons,MOSH,Aceites Minerales Hidrocarburos Aromáticos,Mineral Oils Aromatic Hydrocarbon,MOAH 
+
+E905
+Cera Microcristalina
+Peligroso
+XXXXXXXXX
+Aceites Minerales de Grado Alimentario,Food Grade Mineral Oil 
+
+E905a
+Aceite Mineral de Calidad Alimentaria
+En revisión
+XXXXXXXXX
+Gelatina de Petróleo,Gel de Petrolato,Petrolatum 
+
+E905b
+Vaselina de Calidad Alimentaria
+En revisión
+XXXXXXXXX
+Cera de Hidrocarburo de Parafina,Cera de Petróleo 
+
+E905c
+Cera de Parafina
+En revisión
+XXXXXXXXX
+Aceite Mineral de Viscosidad Alta 
+
+E905d
+Parafina Líquida de Viscosidad Alta
+En revisión
+XXXXXXXXX
+Aceite Mineral de Viscosidad Media y Baja,Categoría 1 
+
+E905e
+Parafina Líquida de Viscosidad Media y Baja (Clase 1)
+En revisión
+XXXXXXXXX
+Aceite Mineral de Viscosidad Media y Baja,Categoría 2 
+
+E905f
+Parafina Líquida de Viscosidad Media y Baja (Clase 2)
+En revisión
+XXXXXXXXX
+Aceite Mineral de Viscosidad Media y Baja,Categoría 3 
+
+E905g
+Parafina Líquida de Viscosidad Media y Baja (Clase 3)
+En revisión
+XXXXXXXXX
+Goma Benzoica,Resina de Benzoína 
+
+E906
+Goma de Benzoína
+En revisión
+XXXXXXXXX
+Polideceno Hidrogenado,Poli-L-Deceno Hidrogenado 
+
+E907
+Poli-1-Deceno Hidrogenado
+Peligroso
+XXXXXXXXX
+Cera de Cáscara de Arroz Integral 
+
+E908
+Cera de Salvado de Arroz
+En revisión
+XXXXXXXXX
+Resina Blanca de Semen de Ballena 
+
+E909
+Cera de Esperma de Ballena
+En revisión
+XXXXXXXXX
+Ésteres de Resina 
+
+E910
+Ésteres de Cera
+En revisión
+XXXXXXXXX
+EMAG 
+
+E911
+Ésteres Metílicos de Ácidos Grasos
+En revisión
+XXXXXXXXX
+Ésteres del Ácido Octacosanoico 
+
+E912
+Ésteres de Ácido Montánico
+Sospechoso
+XXXXXXXXX
+Lanolina Anhidra,Lanoleína,Lanolín,Lanaína,Lanesina,Grasa Lanar,Éster de Cera de Lana Desparafinada,Aceite Refinado de Oveja,Óleo de Lana,Sebo Purificado de Ovino,Vellolina,Agnina,Alapurina,Esipo,Adeps Lanae,Wool Fat,Lamb Oil,Sheep Grease,Lanolin Wax Coating,Dewaxed Lanoline Pure y Lanolin Anhydrous USP 
+
+E913
+Cera de Lana (Lanolina)
+Seguro
+XXXXXXXXX
+Cera de Etileno Polimerizado 
+
+E914
+Cera de Polietileno Oxidada
+Peligroso
+XXXXXXXXX
+Glicerol-Eritritol,Metil-Eritritol o Penta-Eritritol Ésteres de Colofonia 
+
+E915
+Ésteres Glicerílicos,Metílicos o Pentaeritríticos de Colofonia Parcialmente Hidrogenada o Polimerizada
+En revisión
+XXXXXXXXX
+Yodato de Calcio,Iodato de Calcio 
+
+E916
+Yodato Cálcico
+En revisión
+XXXXXXXXX
+Yodato de Potasio,Iodato de Potasio 
+
+E917
+Yodato Potásico
+En revisión
+XXXXXXXXX
+En revisión 
+
+E918
+Óxidos de Nitrógeno
+En revisión
+XXXXXXXXX
+Cloruro de Nitrosilo 
+
+E919
+Cloruro Nitrosílico
+En revisión
+XXXXXXXXX
+Clorohidrato de Ácido 2-Amino-3-Sulfanilpropanoico 
+
+E920
+L-Cisteína y Clorhidratos de Cisteína
+Seguro
+XXXXXXXXX
+Clorohidrato de Ácido 2-Amino-5&#8211; (Diaminometilidenamino) Pentanoico 
+
+E921
+L-Cistina y Clorhidratos de Cistina
+Seguro
+XXXXXXXXX
+Persulfato de Potasio 
+
+E922
+Persulfato Potásico
+En revisión
+XXXXXXXXX
+Persulfato de Amonio 
+
+E923
+Persulfato Amónico
+En revisión
+XXXXXXXXX
+Iones de Bromo 
+
+E924
+Bromatos
+En revisión
+XXXXXXXXX
+Bromato de Potasio 
+
+E924a
+Bromato Potásico
+En revisión
+XXXXXXXXX
+Bromato de Calcio 
+
+E924b
+Bromato Cálcico
+En revisión
+XXXXXXXXX
+Ácido Clórico 
+
+E925
+Cloro
+En revisión
+XXXXXXXXX
+Ácido Clórico,Dicloro 
+
+E926
+Dióxido de Cloro
+En revisión
+XXXXXXXXX
+En revisión 
+
+E927
+Derivados del Ácido Carbámico
+En revisión
+XXXXXXXXX
+Azodicarboxamida,Azobisformamida,Azoformamida 
+
+E927a
+Azodicarbonamida
+Peligroso
+XXXXXXXXX
+Aminometanamida,Diaminometanona,Diaminometanal 
+
+E927b
+Carbamida (Urea)
+Seguro
+XXXXXXXXX
+Peróxido de Benzoílo,Benzoperóxido,Peroxibenzoilo,Bencenecarboperoxoato,Triperóxido de Tribenzoilo,TBTP,Peróxido de Dibenzoilo,DBPO 
+
+E928
+Peróxido Benzoílico
+En revisión
+XXXXXXXXX
+Peróxido de Acetona,Peroxiacetona,Triperóxido de Triacetona,TATP 
+
+E929
+Peróxido Acetónico
+En revisión
+XXXXXXXXX
+Peróxido de Calcio,Peroxicalcio,Triperóxido de Tricalcio,TCTP 
+
+E930
+Peróxido Cálcico
+En revisión
+XXXXXXXXX
+Gas Ar,Gas 18 
+
+E938
+Argón
+Seguro
+XXXXXXXXX
+Gas He,Gas 2 
+
+E939
+Helio
+Seguro
+XXXXXXXXX
+Clorofluorocarbono 
+
+E940
+Diclorodifluorometano
+En revisión
+XXXXXXXXX
+Gas Permanente,Gas N,Gas 7,Ázoe,Az 
+
+E941
+Nitrógeno
+Seguro
+XXXXXXXXX
+Gas N2O,Óxido de Nitrógeno,Protóxido de Nitrógeno,Óxido Hiponitroso,Anhídrido Hiponitroso,Monóxido de Dinitrógeno 
+
+E942
+Óxido Nitroso
+Seguro
+XXXXXXXXX
+En revisión 
+
+E943
+Butanos
+Peligroso
+XXXXXXXXX
+Gas N-Butano 
+
+E943a
+Butano
+Peligroso
+XXXXXXXXX
+Gas Metilpropano,2-Metilpropano,i-Butano 
+
+E943b
+Isobutano
+Peligroso
+XXXXXXXXX
+Gas Pentano,Propane,Tricarbane 
+
+E944
+Propano
+Peligroso
+XXXXXXXXX
+Pentafluoroetano,Genetron HFC 125,Khladon 125,Suva 125,Freon 125,Fc-125,R-125 
+
+E945
+Cloropentafluoroetano
+En revisión
+XXXXXXXXX
+Perfluorociclobutano,Freón-C-318 
+
+E946
+Octafluorociclobutano
+En revisión
+XXXXXXXXX
+Gas O,Gas 8 
+
+E948
+Oxígeno
+Seguro
+XXXXXXXXX
+Gas H,Gas 1 
+
+E949
+Hidrógeno
+Seguro
+XXXXXXXXX
+Acesulfamo de Potasio,Acesulfamo Potásico,Ace K,ACK,Acesulfame K,Sunett,Sweet One 
+
+E950
+Acesulfamo K
+Peligroso
+XXXXXXXXX
+Aspartame,N-(L-α-Aspartil)-L-Fenilalanina,1-Metil Éster 
+
+E951
+Aspartamo
+Peligroso
+XXXXXXXXX
+Sales de Sodio y Calcio del Ácido Ciclámico,Ciclamatos,Ciclohexilsulfamato,Ácido Ciclohexilaminosulfónico,Sal del Ácido Ciclohexano Sulfámico,N-Ciclohexilamidosulfonato 
+
+E952
+Ácido Ciclámico y sus Sales Sódicas y Cálcicas
+Peligroso
+XXXXXXXXX
+Ciclamatos,Ciclohexilsulfamato,Ácido Ciclohexilaminosulfónico,Sal del Ácido Ciclohexano Sulfámico,N-Ciclohexilamidosulfonato 
+
+E952i
+Ácido Ciclámico
+Peligroso
+XXXXXXXXX
+Ciclamatos,Ciclohexilsulfamato,Ácido Ciclohexilaminosulfónico,Sal del Ácido Ciclohexano Sulfámico,N-Ciclohexilamidosulfonato 
+
+E952ii
+Ciclamato Sódico
+Peligroso
+XXXXXXXXX
+Ciclamatos,Ciclohexilsulfamato,Ácido Ciclohexilaminosulfónico,Sal del Ácido Ciclohexano Sulfámico,N-Ciclohexilamidosulfonato 
+
+E952iii
+Ciclamato Cálcico
+Peligroso
+XXXXXXXXX
+Isomaltulosa Hidrogenada,Isomalt,Isomaltitol,Isomalta,Alfa-D- Glucopiranosil(1-6)Alfa-D- Glucopiranosa 
+
+E953
+Isomaltosa
+Seguro
+XXXXXXXXX
+Sales de Sodio,Potasio y Calcio de la Sacarina 
+
+E954
+Sacarina y sus Sales Sódicas,Cálcicas y Potásicas
+Peligroso
+XXXXXXXXX
+2H-1λ6,2-Benzotiazol-1,1,3-Trione 
+
+E954i
+Sacarina
+Peligroso
+XXXXXXXXX
+Sacarina de Sodio 
+
+E954ii
+Sacarina Sódica
+Peligroso
+XXXXXXXXX
+Sacarina de Calcio 
+
+E954iii
+Sacarina Cálcica
+Peligroso
+XXXXXXXXX
+Sacarina de Potasio 
+
+E954iv
+Sacarina Potásica
+Peligroso
+XXXXXXXXX
+Triclorogalactosucrosa,Triclorogalactosacarosa,4,1',6'-Triclorogalactosacarosa 
+
+E955
+Sucralosa
+Peligroso
+XXXXXXXXX
+Alitamo 
+
+E956
+Alitame
+En revisión
+XXXXXXXXX
+Taumatine 
+
+E957
+Taumatina
+Seguro
+XXXXXXXXX
+Ácido Glicirricínico,Extracto de Regaliz,Glicirrizina 
+
+E958
+Glicirricina
+Peligroso
+XXXXXXXXX
+Neohesperidina Hidrocalcona,Neohesperidina DC,Dihidrocalcona de Neohesperidina,NHDC 
+
+E959
+Neohesperidina Dihidrocalcona (NHDC)
+Sospechoso
+XXXXXXXXX
+Estevia,Esteviósido,Glucósidos Esteviólicos,Glicósidos de Estevioles,Extracto Seco de Stevia,Rebaudiósido Tipo A,Estevioglicósidos,Estevioglucósidos 
+
+E960
+Glicósidos de Esteviol
+Sospechoso
+XXXXXXXXX
+Glicósidos de Esteviol de Estevia 
+
+E960a
+Glicósidos de Esteviol de Stevia Rebaudiana Bertoni
+En revisión
+XXXXXXXXX
+En revisión 
+
+E960b
+Glicósidos de Esteviol de Fermentación
+En revisión
+XXXXXXXXX
+Rebaudiósido A de Múltiples Donadores de Genes Expresado en Yarrowia Lipolytica 
+
+E960b(i)
+Glicósidos de Esteviol de Yarrowia Lipolytica (Rebaudiósido A)
+En revisión
+XXXXXXXXX
+Glicósidos de Esteviol Producidos Enzimáticamente 
+
+E960c
+Glicósidos de Esteviol de Enzimas
+En revisión
+XXXXXXXXX
+En revisión 
+
+E960d
+Glicósidos de Esteviol Glicosilados
+En revisión
+XXXXXXXXX
+Asparneotamo 
+
+E961
+Neotamo
+Peligroso
+XXXXXXXXX
+Sal Doble de Aspartame-Acesulfame 
+
+E962
+Sal de Aspartamo y Acesulfamo
+Peligroso
+XXXXXXXXX
+D-Tagatosa,Cetotagatosa,Lixohexulosa 
+
+E963
+Tagatosa
+Seguro
+XXXXXXXXX
+Jarabe de Polialditol 
+
+E964
+Jarabe de Poliglicitol
+En revisión
+XXXXXXXXX
+Glucopiranosil Glucitol,4-O-α-D-Glucopiranosil-D-Glucitol 
+
+E965
+Maltitoles
+Sospechoso
+XXXXXXXXX
+Glucopiranosil Glucitol 
+
+E965i
+Maltitol
+Sospechoso
+XXXXXXXXX
+Sirope de Glucopiranosil Glucitol 
+
+E965ii
+Jarabe de Maltitol
+Sospechoso
+XXXXXXXXX
+Galactopyranosyl Glucitol,4-O-α-D-Galactopyranosyl-D-Glucitol 
+
+E966
+Lactitol
+Sospechoso
+XXXXXXXXX
+Xylitol,Azúcar de Abedul,(2R,3R,4S)-Pentano-1,2,3,4,5-Pentol 
+
+E967
+Xilitol
+Seguro
+XXXXXXXXX
+Butano Tetraol,(2R,3S)-Butano-1,2,3,4-Tetraol 
+
+E968
+Eritritol
+Peligroso
+XXXXXXXXX
+Advantamo 
+
+E969
+Advantame
+Sospechoso
+XXXXXXXXX
+Extractos de Quillay,Garcinia Cambogia 
+
+E999
+Extracto de Quilaya
+Sospechoso
+XXXXXXXXX
+En revisión 
+
+E999i
+Extracto de Quilaya (Clase 1)
+En revisión
+XXXXXXXXX
+En revisión 
+
+E999ii
+Extracto de Quilaya (Clase 2)
+En revisión
+XXXXXXXXX
+Ácido Colánico,Ácido Colanoico,Ácido Taurocólico 
+
+E1000
+Ácido Cólico
+En revisión
+XXXXXXXXX
+Sales y Ésteres de Colina,Derivados Colínicos 
+
+E1001
+Sales y Ésteres Colínicos
+En revisión
+XXXXXXXXX
+Acetato de Colina,Acetocolina,Acetilcolina 
+
+E1001i
+Acetato Colínico
+En revisión
+XXXXXXXXX
+Carbonato de Colina,Carbocolina 
+
+E1001ii
+Carbonato Colínico
+En revisión
+XXXXXXXXX
+Cloruro de Colina,Clorocolina,Clorucolina
+
+E1001iii
+Cloruro Colínico
+En revisión
+XXXXXXXXX
+Citrato de Colina,Citracolina,Citrocolina 
+
+E1001iv
+Citrato Colínico
+En revisión
+XXXXXXXXX
+Tartrato de Colina,Tartracolina,Tartrocolina 
+
+E1001v
+Tartrato Colínico
+En revisión
+XXXXXXXXX
+Lacto de Colina,Lactocolina,Lactacolina 
+
+E1001vi
+Lactato Colínico
+En revisión
+XXXXXXXXX
+Carbohidrasas,Diastasa Ptialina 
+
+E1100
+Amilasas
+Sospechoso
+XXXXXXXXX
+Alfaamilasa de Aspergillus Oryzae Var 
+
+E1100i
+Alfa-Amilasa de Aspergillus Oryzae
+En revisión
+XXXXXXXXX
+Alfaamilasa de Bacillus Stearothermophilus 
+
+E1100ii
+Alfa-Amilasa de Bacillus Stearothermophilus
+En revisión
+XXXXXXXXX
+Alfaamilasa de Bacillus Subtilis 
+
+E1100iii
+Alfa-Amilasa de Bacillus Subtilis
+En revisión
+XXXXXXXXX
+Alfaamilasa de Bacillus Megaterium 
+
+E1100iv
+Alfa-Amilasa de Bacillus Megaterium
+En revisión
+XXXXXXXXX
+Alfaamilasa de Geobacillus Stearothermophilus 
+
+E1100v
+Alfa-Amilasa de Geobacillus Stearothermophilus
+En revisión
+XXXXXXXXX
+En revisión 
+
+E1100vi
+Carbohidrasa de Bacillus Licheniformis
+En revisión
+XXXXXXXXX
+Peptidasas,Enzimas Proteolíticas 
+
+E1101
+Proteasas
+En revisión
+XXXXXXXXX
+Peptidasa,Proteinasa,Enzimas Proteolítica 
+
+E1101i
+Proteasa de Aspergillus Oryzae
+En revisión
+XXXXXXXXX
+Peptidasa-C1,Proteinasa de Papaya I 
+
+E1101ii
+Papaína
+En revisión
+XXXXXXXXX
+Bromelina de la Fruta,Bromelina del Tallo,Bromelaína de Piña 
+
+E1101iii
+Bromelaína
+En revisión
+XXXXXXXXX
+Ficin 
+
+E1101iv
+Ficina
+En revisión
+XXXXXXXXX
+En revisión 
+
+E1101v
+Proteasa de Streptomyces Fradiae
+En revisión
+XXXXXXXXX
+En revisión 
+
+E1101vi
+Proteasa de Bacillus Subtilis
+En revisión
+XXXXXXXXX
+Notatina,Oxidasa de Glucosa,GOx 
+
+E1102
+Glucosa Oxidasa
+En revisión
+XXXXXXXXX
+Sacarasa,β-Fructofuranosidasa 
+
+E1103
+Invertasas
+Seguro
+XXXXXXXXX
+Lipasa Biliar,Lipasa Pancreática,Lipasa Lisosómica,Lipasa Hepática,Lipasa Lipoproteína,Lipasa Hormonal,Lipasa Gástrica,Lipasa Endotelial,Lipasa Lingual 
+
+E1104
+Lipasas
+En revisión
+XXXXXXXXX
+Muramidasa 
+
+E1105
+Lisozima
+Sospechoso
+XXXXXXXXX
+Polidextrosa A y N,Poli-D-Glucosa,Polidextrosas Modificadas 
+
+E1200
+Polidextrosas
+Seguro
+XXXXXXXXX
+Povidona K12,Povidona K90,Polivinil Pirrolidona,PVP 
+
+E1201
+Polivinilpirrolidona (PVP)
+Peligroso
+XXXXXXXXX
+Polipovidona K12,Polividona K90,Polivinil Polipirrolidona,Polivinilpirrolidona Insoluble,PVPP 
+
+E1202
+Polivinilpolipirrolidona (PVPP)
+Peligroso
+XXXXXXXXX
+Polímero del Alcohol Vinílico,Polivinilalcohol,PVA,PVOH 
+
+E1203
+Alcohol Polivinílico
+Sospechoso
+XXXXXXXXX
+Pullulane,α-1,4-,α-1,6-Glucano 
+
+E1204
+Pululano
+Seguro
+XXXXXXXXX
+En revisión 
+
+E1205
+Copolímero de Metacrilato Básico
+En revisión
+XXXXXXXXX
+En revisión 
+
+E1206
+Copolímero de Metacrilato Neutro
+En revisión
+XXXXXXXXX
+En revisión 
+
+E1207
+Copolímero de Metacrilato Aniónico
+En revisión
+XXXXXXXXX
+Copovidona,Copolividona,Copolímero de Polivinilpirrolidona 
+
+E1208
+Copolímero de Acetato de Vinilo
+Peligroso
+XXXXXXXXX
+Copolímero de Injerto de Glicol de Polietileno de Alcohol Polivinílico,Copolímero de Injerto PVA-PVE 
+
+E1209
+Copolímero de Injerto de Polivinialcohol (PVA) y Polietilenglicol (PVE)
+Sospechoso
+XXXXXXXXX
+Poliacrilato de Sodio 
+
+E1210
+Poliacrilato Sódico
+En revisión
+XXXXXXXXX
+Almidón Modificado Genéticamente,Derivados Almidónicos Modificados,Goma Británica,Poli(1-4)-Alfa-D-Glucosa,Modified Starch,Modified Starch Derivatives,British Gum 
+
+E1400
+Dextrinas
+Sospechoso
+XXXXXXXXX
+Almidón Modificado de Maíz Acidificado,Almidón Tratado con Ácidos 
+
+E1401
+Almidón Ácido
+Sospechoso
+XXXXXXXXX
+Almidón Modificado de Maíz Alcalinizado,Almidón Tratado con Alcalinos 
+
+E1402
+Almidón Alcalino
+Sospechoso
+XXXXXXXXX
+Almidón Modificado de Maíz Blanqueado 
+
+E1403
+Almidón Blanqueado
+Sospechoso
+XXXXXXXXX
+Almidón Modificado de Maíz Oxidado 
+
+E1404
+Almidón Oxidado
+Sospechoso
+XXXXXXXXX
+Almidón Modificado de Maíz Enzimático 
+
+E1405
+Almidón Enzimático
+Sospechoso
+XXXXXXXXX
+Fosfato de Almidón Modificado de Maíz 
+
+E1410
+Fosfato de Monoalmidón
+Sospechoso
+XXXXXXXXX
+Fosfato de Almidón Modificado de Maíz 
+
+E1412
+Fosfato de Dialmidón
+Sospechoso
+XXXXXXXXX
+Fosfato de Almidón Modificado de Maíz Fosfatado 
+
+E1413
+Fosfato de Dialmidón Fosfatado
+Sospechoso
+XXXXXXXXX
+Fosfato de Almidón Modificado de Maíz Acetilado 
+
+E1414
+Fosfato de Dialmidón Acetilado
+Sospechoso
+XXXXXXXXX
+Almidón Modificado de Maíz Acetilado 
+
+E1420
+Almidón Acetilado
+Sospechoso
+XXXXXXXXX
+Adipato de Almidón Modificado de Maíz Acetilado 
+
+E1422
+Adipato de Dialmidón Acetilado
+Sospechoso
+XXXXXXXXX
+Hidroxipropilalmidón,Hidroxipropil de Almidón Modificado de Maíz 
+
+E1440
+Hidroxipropil-Almidón
+Sospechoso
+XXXXXXXXX
+Glicerona de Almidón Modificado de Maíz Hidroxipropilado 
+
+E1441
+Glicerona de Dialmidón Hidroxipropilado
+Sospechoso
+XXXXXXXXX
+Fosfato de Almidón Modificado de Maíz Hidroxipropilado 
+
+E1442
+Fosfato de Dialmidón Hidroxipropilado
+Sospechoso
+XXXXXXXXX
+Octenilsuccinato de Sodio de Almidón,Succinato de Almidón Modificado de Maíz Octenilo,SSOS 
+
+E1450
+Octenil-Succinato Sódico de Almidón
+Sospechoso
+XXXXXXXXX
+Almidón Modificado de Maíz Oxidado Acetilado 
+
+E1451
+Almidón Oxidado Acetilado
+Sospechoso
+XXXXXXXXX
+Octenilsuccinato de Aluminio de Almidón,Succinato de Almidón Modificado de Maíz Octenilo,SAOS 
+
+E1452
+Octenil-Succinato Alumínico de Almidón
+Sospechoso
+XXXXXXXXX
+Hidrocarbono Bencilado 
+
+E1501
+Hidrocarbonos Bencilados
+En revisión
+XXXXXXXXX
+1,3-Butanodiol,2,3-Butanodiol 
+
+E1502
+Butanodiol
+En revisión
+XXXXXXXXX
+Aceite de Ricino de Grado Alimenticio,Castor Oil 
+
+E1503
+Aceite de Ricino
+Sospechoso
+XXXXXXXXX
+En revisión 
+
+E1504
+Ciclotetraglucosas
+En revisión
+XXXXXXXXX
+En revisión 
+
+E1504i
+Ciclotetraglucosa
+En revisión
+XXXXXXXXX
+En revisión 
+
+E1504ii
+Jarabe de Ciclotetraglucosa
+En revisión
+XXXXXXXXX
+Citrato de Trietilo,Citrato de Etilo 
+
+E1505
+Citrato Trietílico
+Sospechoso
+XXXXXXXXX
+Alcohol de Etanol 
+
+E1510
+Alcohol Etílico
+En revisión
+XXXXXXXXX
+Monoacetín,Monoacetina,Acetato de Gliceril,Diglicéridos Monoacitina,Monoacetil Glicerol,Monoacetilglicerol,Ácido Monoacético Glicerol Éster,Glyceryl Monoacetate 
+
+E1516
+Monoacetato de Glicerilo
+Seguro
+XXXXXXXXX
+Diacetín,Diacetina,Acetato de Gliceril,Diglicéridos de Diacitina,Diacetil Glicerol,Diacetilglicerol,Ácido Diacético Glicerol Éster,Glyceryl Diacetate 
+
+E1517
+Diacetato de Glicerilo
+Seguro
+XXXXXXXXX
+Triacetín,Triacetina,Acetato de Gliceril,Diglicéridos Triacitina,Triacetil Glicerol,Triacetilglicerol,Ácido Triacético Glicerol Éster,Glyceryl Triacetate 
+
+E1518
+Triacetato de Glicerilo
+Seguro
+XXXXXXXXX
+Fenilmetanol 
+
+E1519
+Alcohol Bencílico
+Sospechoso
+XXXXXXXXX
+Propano-1,2-Diol,Glicol Propileno,PG 
+
+E1520
+Propilenglicol
+Seguro
+XXXXXXXXX
+PEG,Etilenglicol,DEG,Dietilenglicol,MEG,Monoetilenglicol,TEG,Trietilenglicol,Óxido de Polietileno,Polioxietileno,Polióxido de Etileno,Polietanodiol,Glicol de Poli etileno,Carbowax,Macrogol 
+
+E1521
+Polietilenglicol
+Peligroso
+XXXXXXXXX
+Lignosulfonato de Calcio 
+
+E1522
+Lignosulfonato Cálcico
+En revisión
+XXXXXXXXX

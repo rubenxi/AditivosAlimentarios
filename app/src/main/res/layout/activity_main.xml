@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/avocadobg"
+    android:backgroundTint="#D1000000"
+    android:backgroundTintMode="src_over"
+    tools:context=".MainActivity">
+
+
+    <view
+        android:id="@+id/button"
+        class="androidx.appcompat.widget.AppCompatButton"
+        android:layout_width="85dp"
+        android:layout_height="85dp"
+        android:layout_marginEnd="16dp"
+        android:background="#00000000"
+        android:backgroundTint="#00000000"
+        android:shadowColor="#28FFB0"
+        android:text="🔍"
+        android:textColor="#FFFFFF"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:cornerRadius="0px"
+        app:layout_constraintBottom_toBottomOf="@+id/editTextText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/editTextText"
+        app:rippleColor="#28FFB0"
+        app:strokeColor="#28FFB0" />
+
+    <EditText
+        android:id="@+id/editTextText"
+        android:layout_width="0dp"
+        android:layout_height="85dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="32dp"
+        android:ems="10"
+        android:hint="Pulsa para escribir..."
+        android:inputType="text"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@+id/button"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <view
+        android:id="@+id/atras"
+        class="androidx.appcompat.widget.AppCompatButton"
+        android:layout_width="0dp"
+        android:layout_height="70dp"
+        android:background="#00000000"
+        android:backgroundTint="#00000000"
+        android:gravity="center"
+        android:shadowColor="#28FFB0"
+        android:text="⬅️"
+        android:textColor="#FFFFFF"
+        android:textSize="34dp"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        app:cornerRadius="0px"
+        app:layout_constraintBottom_toTopOf="@+id/tableLayout"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText"
+        app:rippleColor="#28FFB0"
+        app:strokeColor="#28FFB0" />
+
+    <view
+        android:id="@+id/alante"
+        class="androidx.appcompat.widget.AppCompatButton"
+        android:layout_width="0dp"
+        android:layout_height="70dp"
+        android:background="#00000000"
+        android:backgroundTint="#00000000"
+        android:gravity="center"
+        android:shadowColor="#28FFB0"
+        android:text="➡️"
+        android:textColor="#FFFFFF"
+        android:textSize="34dp"
+        android:textStyle="bold"
+        android:visibility="invisible"
+        app:cornerRadius="0px"
+        app:layout_constraintBottom_toTopOf="@+id/tableLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText"
+        app:rippleColor="#28FFB0"
+        app:strokeColor="#28FFB0" />
+
+    <TableLayout
+        android:id="@+id/tableLayout"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+
+        app:layout_constraintTop_toBottomOf="@+id/textView6">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+        </TableRow>
+
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:gravity="center"
+        android:padding="4dp"
+        android:paddingStart="4dp"
+        android:paddingLeft="4dp"
+        android:paddingTop="4dp"
+        android:paddingEnd="4dp"
+        android:paddingRight="4dp"
+        android:paddingBottom="4dp"
+        app:autoSizeTextType="uniform"
+        app:layout_constraintBottom_toBottomOf="@+id/alante"
+        app:layout_constraintEnd_toStartOf="@+id/alante"
+        app:layout_constraintStart_toEndOf="@+id/atras"
+        app:layout_constraintTop_toBottomOf="@+id/editTextText" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
